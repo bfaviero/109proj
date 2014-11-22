@@ -1,0 +1,4736 @@
+ticker,sector
+A,Capital Goods
+AA,Capital Goods
+AAN,Technology
+AAP,Consumer Services
+AAT,Consumer Services
+AAV,Energy
+AB,Finance
+ABB,Consumer Durables
+ABC,Health Care
+ABG,Consumer Durables
+ABM,Finance
+ABR,Consumer Services
+ABT,Health Care
+ABV,Consumer Non-Durables
+ABX,Basic Industries
+ACC,Consumer Services
+ACCO,Consumer Durables
+ACE,Finance
+ACH,Basic Industries
+ACI,Energy
+ACM,Consumer Services
+ACMP,Public Utilities
+ACN,Miscellaneous
+ACO,Basic Industries
+ACRE,Consumer Services
+ACTV,Technology
+ACW,Capital Goods
+ADC,Consumer Services
+ADM,Consumer Non-Durables
+ADS,Miscellaneous
+ADT,Consumer Services
+AEB,Finance
+AEC,Consumer Services
+AED,Finance
+AEE,Public Utilities
+AEF,Finance
+AEG,Finance
+AEH,Finance
+AEK,Finance
+AEL,Finance
+AEM,Basic Industries
+AEO,Consumer Services
+AEP,Public Utilities
+AER,Technology
+AES,Basic Industries
+AET,Health Care
+AEV,Finance
+AF,Finance
+AFA,Finance
+AFG,Finance
+AFL,Finance
+AFQ,Finance
+AFSD,Finance
+AFW,Finance
+AG,Basic Industries
+AGCO,Capital Goods
+AGM,Finance
+AGN,Health Care
+AGO,Finance
+AGRO,Consumer Non-Durables
+AGU,Basic Industries
+AH,Consumer Services
+AHC,Consumer Services
+AHL,Finance
+AHS,Health Care
+AHT,Consumer Services
+AI,Finance
+AIG,Finance
+AIN,Basic Industries
+AIQ,Health Care
+AIR,Capital Goods
+AIT,Consumer Durables
+AIV,Consumer Services
+AIZ,Finance
+AJG,Finance
+AKR,Consumer Services
+AKS,Basic Industries
+AL,Technology
+ALB,Basic Industries
+ALDW,Energy
+ALE,Public Utilities
+ALEX,Finance
+ALG,Capital Goods
+ALJ,Energy
+ALK,Transportation
+ALL,Finance
+ALR,Health Care
+ALSN,Capital Goods
+ALU,Public Utilities
+ALV,Capital Goods
+ALX,Consumer Services
+AMBO,Consumer Services
+AMD,Technology
+AME,Consumer Durables
+AMG,Finance
+AMID,Public Utilities
+AMP,Finance
+AMRC,Basic Industries
+AMRE,Consumer Services
+AMT,Consumer Services
+AMTD,Finance
+AMTG,Consumer Services
+AMX,Public Utilities
+AN,Consumer Durables
+ANF,Consumer Services
+ANFI,Consumer Non-Durables
+ANH,Consumer Services
+ANN,Consumer Services
+ANR,Energy
+ANW,Energy
+AOI,Consumer Services
+AOL,Technology
+AON,Finance
+AOS,Consumer Durables
+AP,Capital Goods
+APA,Energy
+APC,Energy
+APD,Basic Industries
+APH,Capital Goods
+APL,Public Utilities
+APO,Finance
+APU,Consumer Services
+ARC,Consumer Services
+ARCO,Consumer Services
+ARE,Consumer Services
+ARG,Capital Goods
+ARI,Consumer Services
+ARL,Finance
+ARO,Consumer Services
+ARP,Energy
+ARR,Consumer Services
+ARSD,Energy
+ARW,Consumer Non-Durables
+ARX,Technology
+ASGN,Technology
+ASH,Consumer Durables
+ASR,Transportation
+ASX,Technology
+AT,Energy
+ATE,Technology
+ATI,Basic Industries
+ATK,Capital Goods
+ATLS,Public Utilities
+ATO,Public Utilities
+ATR,Consumer Non-Durables
+ATU,Technology
+ATV,Consumer Services
+ATW,Energy
+AU,Basic Industries
+AUO,Technology
+AUQ,Basic Industries
+AUY,Basic Industries
+AV,Finance
+AVA,Public Utilities
+AVB,Consumer Services
+AVD,Basic Industries
+AVG,Technology
+AVP,Consumer Non-Durables
+AVT,Consumer Non-Durables
+AVV,Finance
+AVX,Capital Goods
+AVY,Consumer Durables
+AWC,Capital Goods
+AWH,Finance
+AWI,Consumer Non-Durables
+AWK,Public Utilities
+AWR,Public Utilities
+AXE,Consumer Non-Durables
+AXL,Capital Goods
+AXP,Finance
+AXR,Finance
+AXS,Finance
+AYI,Consumer Durables
+AYR,Technology
+AZN,Health Care
+AZO,Consumer Services
+AZZ,Consumer Durables
+B,Capital Goods
+BA,Capital Goods
+BAC,Finance
+BAH,Consumer Services
+BAK,Basic Industries
+BALT,Transportation
+BAM,Consumer Services
+BAP,Finance
+BAS,Energy
+BAX,Health Care
+BBD,Finance
+BBDO,Capital Goods
+BBG,Energy
+BBL,Energy
+BBT,Finance
+BBVA,Finance
+BBW,Consumer Services
+BBX,Finance
+BBY,Consumer Services
+BC,Energy
+BCA,Finance
+BCE,Public Utilities
+BCEI,Energy
+BCH,Finance
+BCO,Transportation
+BCR,Health Care
+BCS,Finance
+BDC,Basic Industries
+BDN,Consumer Services
+BDX,Health Care
+BEAM,Consumer Non-Durables
+BEE,Consumer Services
+BEN,Finance
+BERY,Consumer Non-Durables
+BFR,Finance
+BFS,Consumer Services
+BG,Consumer Non-Durables
+BGC,Basic Industries
+BGCA,Finance
+BGG,Energy
+BGS,Consumer Non-Durables
+BH,Consumer Services
+BHE,Technology
+BHI,Energy
+BHLB,Finance
+BHP,Basic Industries
+BID,Miscellaneous
+BIG,Consumer Services
+BIN,Public Utilities
+BIO,Capital Goods
+BIP,Consumer Services
+BITA,Technology
+BK,Finance
+BKD,Health Care
+BKE,Consumer Services
+BKH,Public Utilities
+BKS,Consumer Services
+BKU,Finance
+BKW,Consumer Services
+BLC,Consumer Services
+BLK,Finance
+BLL,Consumer Durables
+BLOX,Technology
+BLT,Capital Goods
+BLW,Finance
+BLX,Finance
+BMA,Finance
+BMI,Capital Goods
+BMO,Finance
+BMR,Consumer Services
+BMS,Consumer Durables
+BMY,Health Care
+BNNY,Consumer Non-Durables
+BNS,Finance
+BOH,Finance
+BORN,Consumer Non-Durables
+BOXC,Consumer Services
+BP,Energy
+BPI,Consumer Services
+BPL,Energy
+BPO,Consumer Services
+BPT,Energy
+BPZ,Energy
+BR,Miscellaneous
+BRC,Consumer Durables
+BRE,Consumer Services
+BRFS,Consumer Non-Durables
+BRO,Finance
+BRP,Basic Industries
+BRS,Transportation
+BRT,Consumer Services
+BRY,Energy
+BSAC,Finance
+BSBR,Finance
+BSI,Consumer Services
+BSMX,Finance
+BSX,Health Care
+BT,Public Utilities
+BTE,Energy
+BTH,Health Care
+BTU,Energy
+BUD,Consumer Non-Durables
+BVN,Basic Industries
+BWA,Capital Goods
+BWC,Energy
+BWP,Public Utilities
+BWS,Consumer Non-Durables
+BX,Finance
+BXC,Capital Goods
+BXP,Consumer Services
+BXS,Finance
+BYD,Consumer Services
+BYI,Technology
+BZ,Consumer Durables
+BZH,Capital Goods
+BZT,Capital Goods
+C,Finance
+CAB,Consumer Services
+CACI,Technology
+CAE,Energy
+CAG,Consumer Non-Durables
+CAH,Health Care
+CAJ,Miscellaneous
+CALX,Consumer Services
+CAM,Energy
+CAP,Technology
+CAS,Basic Industries
+CAT,Capital Goods
+CATO,Consumer Services
+CB,Finance
+CBB,Public Utilities
+CBD,Consumer Services
+CBG,Finance
+CBI,Basic Industries
+CBK,Consumer Services
+CBL,Consumer Services
+CBM,Health Care
+CBR,Technology
+CBS,Consumer Services
+CBT,Basic Industries
+CBU,Finance
+CBZ,Miscellaneous
+CCC,Basic Industries
+CCE,Consumer Non-Durables
+CCG,Finance
+CCI,Consumer Services
+CCJ,Basic Industries
+CCK,Consumer Durables
+CCL,Consumer Services
+CCM,Health Care
+CCO,Consumer Services
+CCSC,Consumer Services
+CCU,Consumer Non-Durables
+CCZ,Consumer Services
+CDE,Basic Industries
+CDI,Technology
+CDR,Consumer Services
+CE,Basic Industries
+CEA,Transportation
+CEB,Consumer Services
+CEC,Consumer Services
+CEL,Public Utilities
+CEO,Energy
+CF,Basic Industries
+CFI,Basic Industries
+CFN,Health Care
+CFR,Finance
+CFX,Capital Goods
+CGA,Basic Industries
+CGI,Transportation
+CGX,Miscellaneous
+CHA,Public Utilities
+CHC,Public Utilities
+CHD,Basic Industries
+CHE,Health Care
+CHH,Consumer Services
+CHK,Energy
+CHKR,Energy
+CHL,Public Utilities
+CHMT,Basic Industries
+CHS,Consumer Services
+CHSP,Consumer Services
+CHT,Public Utilities
+CHU,Public Utilities
+CI,Health Care
+CIA,Finance
+CIB,Finance
+CIE,Energy
+CIG,Public Utilities
+CIM,Consumer Services
+CIR,Capital Goods
+CIS,Technology
+CIT,Finance
+CJES,Energy
+CKH,Transportation
+CKP,Consumer Durables
+CL,Consumer Non-Durables
+CLB,Energy
+CLC,Capital Goods
+CLD,Energy
+CLDT,Consumer Services
+CLF,Basic Industries
+CLGX,Technology
+CLH,Basic Industries
+CLI,Consumer Services
+CLNY,Consumer Services
+CLR,Energy
+CLS,Technology
+CLW,Basic Industries
+CLX,Consumer Durables
+CM,Finance
+CMA,Finance
+CMC,Basic Industries
+CMG,Consumer Services
+CMI,Energy
+CMLP,Public Utilities
+CMN,Health Care
+CMO,Consumer Services
+CMP,Basic Industries
+CMRE,Transportation
+CMS,Public Utilities
+CNA,Finance
+CNC,Health Care
+CNCO,Consumer Services
+CNI,Transportation
+CNK,Consumer Services
+CNL,Public Utilities
+CNO,Finance
+CNP,Public Utilities
+CNQ,Energy
+CNS,Finance
+CNW,Transportation
+CNX,Energy
+CO,Finance
+CODE,Technology
+CODI,Capital Goods
+COF,Finance
+COG,Energy
+COH,Consumer Non-Durables
+COL,Capital Goods
+COO,Health Care
+COP,Energy
+COR,Consumer Services
+COT,Consumer Non-Durables
+COV,Health Care
+CP,Transportation
+CPA,Transportation
+CPAC,Capital Goods
+CPB,Consumer Non-Durables
+CPE,Energy
+CPF,Finance
+CPK,Public Utilities
+CPL,Public Utilities
+CPN,Public Utilities
+CPT,Consumer Services
+CQB,Consumer Non-Durables
+CR,Capital Goods
+CRH,Capital Goods
+CRI,Consumer Non-Durables
+CRK,Energy
+CRL,Health Care
+CRM,Technology
+CRR,Capital Goods
+CRS,Basic Industries
+CRT,Energy
+CRY,Health Care
+CS,Finance
+CSC,Technology
+CSE,Finance
+CSFS,Finance
+CSH,Consumer Services
+CSL,Basic Industries
+CSS,Consumer Services
+CSU,Health Care
+CSV,Consumer Services
+CSX,Transportation
+CTB,Consumer Durables
+CTC,Finance
+CTL,Public Utilities
+CTQ,Public Utilities
+CTS,Technology
+CTU,Public Utilities
+CTW,Public Utilities
+CTX,Public Utilities
+CUB,Capital Goods
+CUBE,Consumer Services
+CUK,Consumer Services
+CUZ,Consumer Services
+CVA,Basic Industries
+CVB,Finance
+CVC,Consumer Services
+CVD,Health Care
+CVE,Energy
+CVG,Technology
+CVI,Energy
+CVO,Miscellaneous
+CVS,Health Care
+CVX,Energy
+CW,Technology
+CWH,Consumer Services
+CWHN,Consumer Services
+CWHO,Consumer Services
+CWT,Public Utilities
+CWZ,Finance
+CX,Capital Goods
+CXO,Energy
+CXW,Consumer Services
+CYD,Energy
+CYH,Health Care
+CYN,Finance
+CYS,Consumer Services
+CYT,Basic Industries
+CZZ,Consumer Non-Durables
+D,Public Utilities
+DAC,Transportation
+DAL,Transportation
+DAN,Capital Goods
+DANG,Consumer Services
+DAR,Consumer Non-Durables
+DB,Finance
+DBD,Miscellaneous
+DCE,Finance
+DCI,Capital Goods
+DCM,Technology
+DCO,Capital Goods
+DCT,Consumer Services
+DD,Basic Industries
+DDD,Technology
+DDE,Consumer Services
+DDR,Consumer Services
+DDS,Consumer Services
+DDT,Consumer Services
+DE,Capital Goods
+DEG,Consumer Services
+DEI,Consumer Services
+DEL,Basic Industries
+DEO,Consumer Non-Durables
+DF,Consumer Non-Durables
+DFS,Finance
+DFT,Finance
+DG,Consumer Services
+DGI,Consumer Services
+DGX,Health Care
+DHI,Capital Goods
+DHR,Capital Goods
+DHT,Transportation
+DHX,Miscellaneous
+DIN,Consumer Services
+DIS,Consumer Services
+DK,Energy
+DKL,Energy
+DKS,Consumer Services
+DL,Consumer Services
+DLB,Technology
+DLPH,Capital Goods
+DLR,Consumer Services
+DLX,Consumer Durables
+DM,Miscellaneous
+DMD,Technology
+DNB,Finance
+DNR,Energy
+DO,Energy
+DOLE,Consumer Non-Durables
+DOM,Energy
+DOV,Technology
+DOW,Basic Industries
+DOX,Technology
+DPM,Public Utilities
+DPS,Consumer Non-Durables
+DPZ,Consumer Non-Durables
+DQ,Technology
+DRC,Energy
+DRD,Basic Industries
+DRE,Consumer Services
+DRH,Consumer Services
+DRI,Consumer Services
+DRL,Finance
+DRQ,Energy
+DRU,Public Utilities
+DST,Technology
+DSW,Consumer Services
+DSX,Transportation
+DTE,Public Utilities
+DTK,Finance
+DTQ,Public Utilities
+DTT,Finance
+DTZ,Public Utilities
+DUK,Public Utilities
+DV,Consumer Services
+DVA,Health Care
+DVD,Consumer Services
+DVN,Energy
+DVR,Energy
+DW,Capital Goods
+DWRE,Technology
+DX,Consumer Services
+DXB,Finance
+DY,Basic Industries
+DYN,Public Utilities
+E,Energy
+EAA,Public Utilities
+EAT,Consumer Services
+EBF,Consumer Services
+EBR,Public Utilities
+EBS,Health Care
+EC,Energy
+ECA,Energy
+ECL,Basic Industries
+ECT,Energy
+ED,Public Utilities
+EDE,Public Utilities
+EDG,Basic Industries
+EDN,Public Utilities
+EDR,Consumer Services
+EDT,Public Utilities
+EDU,Consumer Services
+EE,Public Utilities
+EEP,Energy
+EEQ,Energy
+EFC,Finance
+EFM,Public Utilities
+EFX,Finance
+EGL,Consumer Services
+EGN,Energy
+EGO,Basic Industries
+EGP,Consumer Services
+EGY,Energy
+EIG,Finance
+EIX,Public Utilities
+EJ,Finance
+EL,Consumer Non-Durables
+ELA,Public Utilities
+ELB,Public Utilities
+ELJ,Public Utilities
+ELLI,Technology
+ELN,Health Care
+ELP,Public Utilities
+ELS,Consumer Services
+ELX,Technology
+ELY,Consumer Non-Durables
+EMC,Technology
+EME,Capital Goods
+EMN,Basic Industries
+EMQ,Public Utilities
+EMR,Energy
+EMZ,Public Utilities
+ENB,Energy
+END,Energy
+ENH,Finance
+ENI,Public Utilities
+ENL,Consumer Services
+ENR,Energy
+ENS,Consumer Non-Durables
+ENV,Miscellaneous
+ENZ,Health Care
+EOC,Public Utilities
+EOG,Energy
+EPAM,Technology
+EPB,Public Utilities
+EPD,Public Utilities
+EPL,Energy
+EPR,Consumer Services
+EQM,Public Utilities
+EQR,Consumer Services
+EQT,Public Utilities
+EQU,Energy
+EQY,Consumer Services
+ERF,Energy
+ERJ,Capital Goods
+ESC,Health Care
+ESE,Consumer Durables
+ESI,Consumer Services
+ESL,Capital Goods
+ESS,Consumer Services
+ESV,Energy
+ETE,Public Utilities
+ETH,Consumer Durables
+ETM,Consumer Services
+ETN,Technology
+ETP,Public Utilities
+ETR,Public Utilities
+EV,Finance
+EVC,Consumer Services
+EVER,Finance
+EVR,Finance
+EW,Health Care
+EXAM,Health Care
+EXC,Public Utilities
+EXH,Technology
+EXK,Basic Industries
+EXL,Consumer Services
+EXP,Capital Goods
+EXPR,Consumer Services
+EXR,Consumer Services
+F,Capital Goods
+FAC,Finance
+FAF,Finance
+FBC,Finance
+FBHS,Basic Industries
+FBP,Finance
+FBR,Basic Industries
+FC,Consumer Services
+FCF,Finance
+FCH,Consumer Services
+FCN,Consumer Services
+FCS,Technology
+FCX,Basic Industries
+FDO,Consumer Services
+FDP,Consumer Non-Durables
+FDS,Technology
+FDX,Transportation
+FE,Public Utilities
+FENG,Consumer Services
+FET,Energy
+FF,Basic Industries
+FFG,Finance
+FGP,Consumer Services
+FHN,Finance
+FICO,Miscellaneous
+FIG,Finance
+FII,Finance
+FIO,Technology
+FIS,Miscellaneous
+FIX,Capital Goods
+FL,Consumer Services
+FLO,Consumer Non-Durables
+FLR,Basic Industries
+FLS,Capital Goods
+FLT,Miscellaneous
+FLTX,Technology
+FMC,Basic Industries
+FMD,Finance
+FMS,Health Care
+FMX,Consumer Non-Durables
+FN,Public Utilities
+FNB,Finance
+FNF,Finance
+FNP,Consumer Non-Durables
+FNV,Basic Industries
+FOE,Basic Industries
+FOR,Finance
+FPO,Consumer Services
+FR,Consumer Services
+FRF,Finance
+FRM,Basic Industries
+FRO,Transportation
+FRT,Consumer Services
+FRX,Health Care
+FSL,Technology
+FSM,Basic Industries
+FSS,Capital Goods
+FST,Energy
+FTI,Energy
+FTK,Basic Industries
+FUL,Basic Industries
+FUN,Consumer Services
+FUR,Consumer Services
+FVE,Health Care
+FXCM,Finance
+G,Consumer Services
+GA,Miscellaneous
+GAS,Public Utilities
+GB,Energy
+GBL,Finance
+GBX,Capital Goods
+GCA,Finance
+GCAP,Finance
+GCI,Consumer Services
+GCO,Consumer Services
+GD,Capital Goods
+GDOT,Finance
+GDP,Energy
+GE,Energy
+GEB,Finance
+GEF,Consumer Durables
+GEL,Energy
+GEO,Consumer Services
+GES,Consumer Non-Durables
+GFA,Basic Industries
+GFF,Capital Goods
+GFI,Basic Industries
+GFIG,Finance
+GG,Basic Industries
+GGB,Capital Goods
+GGG,Capital Goods
+GGP,Consumer Services
+GGS,Energy
+GHL,Finance
+GIB,Consumer Services
+GIL,Consumer Non-Durables
+GIS,Consumer Non-Durables
+GJH,Finance
+GJK,Finance
+GJO,Finance
+GJS,Finance
+GJT,Finance
+GJV,Finance
+GKM,Finance
+GLF,Energy
+GLOG,Consumer Services
+GLP,Energy
+GLT,Basic Industries
+GLW,Basic Industries
+GM,Capital Goods
+GME,Consumer Services
+GMED,Health Care
+GMK,Consumer Non-Durables
+GMT,Consumer Services
+GNC,Consumer Non-Durables
+GNE,Public Utilities
+GNI,Basic Industries
+GNK,Transportation
+GNRC,Consumer Durables
+GNW,Finance
+GOL,Transportation
+GOM,Finance
+GOV,Finance
+GPC,Capital Goods
+GPI,Consumer Durables
+GPK,Consumer Durables
+GPN,Miscellaneous
+GPS,Consumer Services
+GPX,Consumer Services
+GRA,Basic Industries
+GRO,Consumer Non-Durables
+GRT,Consumer Services
+GS,Finance
+GSE,Capital Goods
+GSF,Finance
+GSH,Transportation
+GSI,Capital Goods
+GSJ,Finance
+GSK,Health Care
+GSL,Transportation
+GT,Consumer Durables
+GTI,Energy
+GTN,Consumer Services
+GTS,Finance
+GTY,Finance
+GUA,Public Utilities
+GVA,Basic Industries
+GWAY,Technology
+GWR,Transportation
+GWRE,Technology
+GWRU,Transportation
+GWW,Consumer Services
+GXP,Public Utilities
+GY,Basic Industries
+GYB,Finance
+GYC,Finance
+GZT,Finance
+H,Consumer Services
+HAE,Health Care
+HAL,Energy
+HAR,Consumer Non-Durables
+HSBC,Finance
+HBI,Consumer Services
+HBM,Basic Industries
+HCA,Health Care
+HCC,Finance
+HCI,Finance
+HCLP,Basic Industries
+HCN,Consumer Services
+HCP,Consumer Services
+HSEA,Finance
+HD,Consumer Services
+HDB,Finance
+HDY,Energy
+HE,Public Utilities
+HEI,Capital Goods
+HEP,Energy
+HES,Energy
+HF,Consumer Services
+HFC,Energy
+HGG,Consumer Services
+HGH,Finance
+HGR,Health Care
+HGT,Energy
+HHC,Consumer Services
+HHS,Technology
+HI,Consumer Durables
+HIG,Finance
+HII,Capital Goods
+HIL,Consumer Services
+HIW,Consumer Services
+HJJ,Finance
+HJN,Finance
+HJR,Finance
+HJV,Finance
+HK,Energy
+HL,Basic Industries
+HLF,Health Care
+HLS,Health Care
+HLX,Energy
+HMA,Health Care
+HMC,Capital Goods
+HME,Consumer Services
+HMN,Finance
+HMY,Basic Industries
+HNI,Consumer Durables
+HNP,Public Utilities
+HNR,Energy
+HNT,Health Care
+HOG,Consumer Non-Durables
+HON,Capital Goods
+HOS,Consumer Services
+HOT,Consumer Services
+HOV,Capital Goods
+HOVU,Capital Goods
+HP,Energy
+HPP,Finance
+HPQ,Technology
+HPT,Consumer Services
+HPY,Miscellaneous
+HR,Consumer Services
+HRB,Consumer Services
+HRC,Health Care
+HRG,Energy
+HRL,Consumer Non-Durables
+HRS,Capital Goods
+HSC,Capital Goods
+HSH,Consumer Non-Durables
+HSP,Health Care
+HST,Consumer Services
+HSY,Consumer Non-Durables
+HT,Consumer Services
+HTA,Consumer Services
+HTH,Finance
+HTS,Consumer Services
+HTSI,Consumer Services
+HTZ,Consumer Services
+HUM,Health Care
+HUN,Basic Industries
+HVB,Finance
+HVT,Consumer Services
+HW,Capital Goods
+HXL,Basic Industries
+HXM,Basic Industries
+HY,Capital Goods
+HYL,Finance
+HZO,Consumer Services
+IAG,Basic Industries
+IBA,Consumer Non-Durables
+IBM,Technology
+IBN,Finance
+ICA,Basic Industries
+ICE,Finance
+IDA,Public Utilities
+IDG,Finance
+IDT,Public Utilities
+IEX,Capital Goods
+IFF,Basic Industries
+IFT,Finance
+IGK,Finance
+IGT,Consumer Durables
+IHC,Finance
+IHS,Technology
+IL,Technology
+IM,Technology
+IMAX,Miscellaneous
+IMN,Technology
+IMPV,Technology
+IND,Finance
+ING,Finance
+INGR,Consumer Non-Durables
+INN,Consumer Services
+INT,Energy
+INVN,Technology
+INXN,Technology
+INZ,Finance
+IO,Energy
+IOC,Energy
+IP,Basic Industries
+IPG,Technology
+IPHI,Technology
+IPI,Basic Industries
+IR,Capital Goods
+IRC,Consumer Services
+IRE,Finance
+IRF,Technology
+IRM,Consumer Services
+IRS,Consumer Services
+ISF,Finance
+ISG,Finance
+ISH,Transportation
+ISP,Finance
+ISS,Technology
+IT,Consumer Services
+ITC,Public Utilities
+ITG,Finance
+ITT,Capital Goods
+ITUB,Finance
+ITW,Technology
+IVC,Health Care
+IVR,Consumer Services
+IVZ,Finance
+IX,Finance
+JAH,Consumer Durables
+JBI,Finance
+JBJ,Finance
+JBK,Finance
+JBL,Technology
+JBN,Finance
+JBO,Finance
+JBR,Finance
+JBT,Technology
+JCI,Consumer Durables
+JCP,Consumer Services
+JE,Public Utilities
+JEC,Basic Industries
+JHX,Capital Goods
+JKS,Technology
+JLL,Finance
+JMI,Consumer Services
+JMP,Finance
+JNJ,Health Care
+JNPR,Technology
+JNS,Finance
+JNY,Consumer Non-Durables
+JOE,Consumer Services
+JOY,Energy
+JPM,Finance
+JRN,Consumer Services
+JWN,Consumer Services
+JZC,Finance
+JZJ,Finance
+JZK,Finance
+JZL,Finance
+JZT,Finance
+JZV,Finance
+K,Consumer Non-Durables
+KAI,Technology
+KAMN,Consumer Durables
+KAR,Consumer Durables
+KB,Finance
+KBH,Capital Goods
+KBR,Basic Industries
+KCC,Finance
+KCG,Finance
+KEG,Energy
+KEM,Capital Goods
+KEP,Public Utilities
+KEX,Consumer Services
+KEY,Finance
+KFH,Finance
+KFI,Finance
+KFN,Finance
+KFS,Finance
+KFY,Technology
+KGC,Basic Industries
+KHI,Consumer Services
+KID,Consumer Durables
+KIM,Consumer Services
+KKD,Consumer Non-Durables
+KKR,Finance
+KMB,Consumer Durables
+KMG,Basic Industries
+KMI,Public Utilities
+KMP,Public Utilities
+KMPR,Finance
+KMR,Energy
+KMT,Capital Goods
+KMX,Consumer Durables
+KND,Health Care
+KNL,Consumer Durables
+KNM,Technology
+KNX,Transportation
+KO,Consumer Non-Durables
+KOF,Consumer Non-Durables
+KOG,Energy
+KOP,Basic Industries
+KORS,Consumer Non-Durables
+KOS,Energy
+KR,Consumer Services
+KRA,Basic Industries
+KRC,Consumer Services
+KRG,Consumer Services
+KRO,Basic Industries
+KS,Basic Industries
+KSS,Consumer Services
+KSU,Transportation
+KT,Public Utilities
+KTH,Finance
+KTN,Finance
+KTP,Finance
+KW,Finance
+KWK,Energy
+KWR,Basic Industries
+KYO,Technology
+L,Finance
+LAD,Consumer Durables
+LAS,Consumer Durables
+LAZ,Finance
+LCC,Transportation
+LDK,Technology
+LDL,Capital Goods
+LDR,Capital Goods
+LEA,Capital Goods
+LEE,Consumer Services
+LEG,Consumer Durables
+LEN,Basic Industries
+LF,Consumer Non-Durables
+LFC,Finance
+LFL,Transportation
+LG,Public Utilities
+LGF,Consumer Services
+LGP,Energy
+LH,Health Care
+LHO,Consumer Services
+LII,Capital Goods
+LL,Consumer Services
+LLL,Technology
+LLY,Health Care
+LM,Finance
+LMT,Capital Goods
+LNC,Finance
+LND,Consumer Non-Durables
+LNKD,Technology
+LNN,Capital Goods
+LNT,Public Utilities
+LO,Consumer Non-Durables
+LOCK,Technology
+LOW,Consumer Services
+LPI,Energy
+LPL,Capital Goods
+LPS,Miscellaneous
+LPX,Basic Industries
+LRE,Energy
+LRN,Consumer Services
+LRY,Consumer Services
+LSE,Consumer Services
+LSI,Technology
+LTC,Consumer Services
+LB,Consumer Services
+LTM,Consumer Services
+LUB,Consumer Services
+LUK,Consumer Non-Durables
+LUV,Transportation
+LUX,Health Care
+LVLT,Public Utilities
+LVS,Consumer Services
+LXFR,Basic Industries
+LXK,Technology
+LXP,Consumer Services
+LXU,Basic Industries
+LYB,Basic Industries
+LYG,Finance
+LYV,Consumer Services
+LZB,Consumer Durables
+M,Consumer Services
+MA,Miscellaneous
+MAA,Consumer Services
+MAC,Consumer Services
+MAN,Technology
+MANU,Consumer Services
+MAR,Consumer Services
+MAS,Basic Industries
+MATX,Consumer Services
+MBI,Finance
+MBT,Public Utilities
+MCD,Consumer Services
+MCK,Health Care
+MCO,Finance
+MCP,Basic Industries
+MCS,Consumer Services
+MCY,Finance
+MD,Health Care
+MDC,Capital Goods
+MDP,Consumer Services
+MDR,Capital Goods
+MDT,Health Care
+MDU,Basic Industries
+MED,Consumer Non-Durables
+MEG,Consumer Services
+MEI,Capital Goods
+MET,Finance
+MFA,Consumer Services
+MFC,Finance
+MFG,Finance
+MFO,Consumer Services
+MG,Consumer Services
+MGA,Capital Goods
+MGI,Miscellaneous
+MGM,Consumer Services
+MGR,Finance
+MHK,Consumer Durables
+MHNA,Finance
+MHNB,Finance
+MHO,Capital Goods
+MHR,Energy
+MIC,Energy
+MIG,Finance
+MIL,Finance
+MILL,Energy
+MJN,Consumer Non-Durables
+MKC,Consumer Non-Durables
+MKL,Finance
+MLG,Finance
+MLI,Capital Goods
+MLM,Basic Industries
+MLP,Finance
+MLR,Capital Goods
+MLU,Finance
+MM,Technology
+MMC,Finance
+MMM,Health Care
+MMP,Energy
+MMS,Miscellaneous
+MN,Finance
+MNI,Consumer Services
+MNR,Consumer Services
+MO,Consumer Non-Durables
+MOD,Capital Goods
+MOH,Health Care
+MON,Basic Industries
+MOS,Basic Industries
+MOV,Consumer Non-Durables
+MPC,Energy
+MPLX,Energy
+MPO,Energy
+MPW,Consumer Services
+MPX,Capital Goods
+MR,Health Care
+MRC,Capital Goods
+MRH,Finance
+MRK,Health Care
+MRO,Energy
+MS,Finance
+MSA,Health Care
+MSB,Basic Industries
+MSCI,Miscellaneous
+MSI,Technology
+MSJ,Finance
+MSM,Capital Goods
+MSO,Consumer Services
+MSZ,Finance
+MT,Basic Industries
+MTB,Finance
+MTD,Capital Goods
+MTDR,Energy
+MTG,Finance
+MTH,Capital Goods
+MTL,Basic Industries
+MTN,Consumer Services
+MTOR,Capital Goods
+MTR,Energy
+MTRN,Capital Goods
+MTU,Finance
+MTW,Capital Goods
+MTX,Basic Industries
+MTZ,Basic Industries
+MUR,Energy
+MUSA,Consumer Durables
+MUX,Basic Industries
+MVO,Energy
+MW,Consumer Services
+MWA,Capital Goods
+MWE,Energy
+MWG,Finance
+MWO,Finance
+MWR,Finance
+MWV,Basic Industries
+MWW,Technology
+MX,Technology
+MXL,Technology
+MXT,Public Utilities
+MY,Energy
+MYE,Consumer Non-Durables
+N,Technology
+NAT,Consumer Services
+NAV,Capital Goods
+NBG,Finance
+NBHC,Finance
+NBL,Energy
+NBR,Energy
+NC,Capital Goods
+NCI,Consumer Services
+NCR,Miscellaneous
+NCS,Capital Goods
+NCT,Consumer Services
+NDRO,Energy
+NDZ,Capital Goods
+NE,Energy
+NED,Technology
+NEE,Public Utilities
+NEM,Basic Industries
+NEU,Basic Industries
+NFG,Public Utilities
+NFJ,Finance
+NFX,Energy
+NGG,Public Utilities
+NGL,Consumer Services
+NGLS,Public Utilities
+NGS,Energy
+NGVC,Consumer Services
+NHI,Consumer Services
+NI,Public Utilities
+NJ,Consumer Durables
+NJR,Public Utilities
+NKA,Public Utilities
+NKE,Consumer Non-Durables
+NL,Basic Industries
+NLS,Consumer Non-Durables
+NLSN,Miscellaneous
+NLY,Consumer Services
+NM,Transportation
+NMM,Transportation
+NMR,Finance
+NNA,Transportation
+NNI,Finance
+NNN,Consumer Services
+NOA,Energy
+NOAH,Finance
+NOC,Capital Goods
+NOK,Technology
+NOR,Basic Industries
+NOV,Energy
+NOW,Technology
+NP,Basic Industries
+NPD,Health Care
+NPK,Capital Goods
+NPO,Basic Industries
+NPTN,Technology
+NQ,Technology
+NR,Energy
+NRF,Consumer Services
+NRG,Public Utilities
+NRP,Energy
+NRT,Energy
+NS,Energy
+NSC,Transportation
+NSH,Energy
+NSM,Finance
+NSP,Technology
+NSR,Consumer Services
+NTE,Capital Goods
+NTI,Energy
+NTL,Public Utilities
+NTT,Public Utilities
+NTZ,Consumer Durables
+NU,Public Utilities
+NUE,Basic Industries
+NUS,Health Care
+NVE,Public Utilities
+NVO,Health Care
+NVR,Capital Goods
+NVS,Health Care
+NWE,Public Utilities
+NWL,Consumer Non-Durables
+NWN,Public Utilities
+NWY,Consumer Services
+NX,Capital Goods
+NYCB,Finance
+NYT,Consumer Services
+NYX,Finance
+O,Consumer Services
+OAK,Finance
+OAS,Energy
+OB,Finance
+OC,Capital Goods
+OCN,Finance
+OCR,Health Care
+ODC,Consumer Durables
+ODP,Consumer Services
+OEH,Consumer Services
+OFC,Consumer Services
+OFG,Finance
+OGE,Public Utilities
+OHI,Consumer Services
+OI,Consumer Durables
+OIBR,Public Utilities
+OII,Energy
+OILT,Energy
+OIS,Energy
+OKE,Public Utilities
+OKS,Public Utilities
+OLN,Basic Industries
+OLP,Consumer Services
+OMC,Technology
+OME,Consumer Non-Durables
+OMG,Basic Industries
+OMI,Health Care
+OMN,Basic Industries
+OMX,Consumer Services
+ONB,Finance
+ONE,Miscellaneous
+OPK,Health Care
+OPY,Finance
+ORA,Public Utilities
+ORB,Technology
+ORI,Finance
+ORN,Basic Industries
+OSK,Capital Goods
+OWW,Consumer Services
+OXF,Energy
+OXM,Consumer Non-Durables
+OXY,Energy
+OZM,Finance
+P,Consumer Services
+PAA,Energy
+PAC,Transportation
+PACD,Energy
+PAG,Consumer Durables
+PAM,Public Utilities
+PANW,Technology
+PAR,Miscellaneous
+PAY,Miscellaneous
+PB,Finance
+PBA,Energy
+PBH,Health Care
+PBI,Miscellaneous
+PBNY,Finance
+PBR,Energy
+PBT,Energy
+PBY,Consumer Services
+PBYI,Health Care
+PCG,Public Utilities
+PCL,Consumer Services
+PCP,Basic Industries
+PDH,Basic Industries
+PDM,Consumer Services
+PDS,Energy
+PEB,Consumer Services
+PEG,Public Utilities
+PEI,Consumer Services
+PEP,Consumer Non-Durables
+PER,Energy
+PES,Energy
+PFE,Health Care
+PFG,Finance
+PFH,Finance
+PFK,Finance
+PFS,Finance
+PFX,Finance
+PG,Basic Industries
+PGH,Energy
+PGI,Miscellaneous
+PGR,Finance
+PH,Capital Goods
+PHA,Capital Goods
+PHG,Energy
+PHH,Finance
+PHI,Public Utilities
+PHM,Capital Goods
+PHX,Energy
+PII,Capital Goods
+PIKE,Capital Goods
+PIR,Consumer Services
+PIY,Finance
+PJA,Finance
+PJC,Finance
+PJL,Finance
+PJS,Finance
+PKD,Energy
+PKE,Technology
+PKG,Consumer Durables
+PKH,Finance
+PKI,Capital Goods
+PKX,Basic Industries
+PKY,Consumer Services
+PL,Finance
+PLD,Consumer Services
+PLL,Capital Goods
+PLOW,Capital Goods
+PLP,Finance
+PLT,Public Utilities
+PM,Consumer Non-Durables
+PMC,Health Care
+PMT,Consumer Services
+PNC,Finance
+PNG,Public Utilities
+PNK,Consumer Services
+PNM,Public Utilities
+PNR,Technology
+PNW,Public Utilities
+PNX,Finance
+PNY,Public Utilities
+POL,Basic Industries
+POM,Public Utilities
+POR,Public Utilities
+POST,Consumer Non-Durables
+POT,Basic Industries
+PPC,Consumer Non-Durables
+PPG,Basic Industries
+PPL,Public Utilities
+PPO,Basic Industries
+PPP,Basic Industries
+PPS,Consumer Services
+PQ,Energy
+PRA,Finance
+PRE,Finance
+PRGN,Transportation
+PRI,Finance
+PRIS,Consumer Services
+PRLB,Capital Goods
+PRO,Technology
+PRU,Finance
+PSA,Consumer Services
+PSB,Consumer Services
+PSE,Energy
+PSO,Consumer Services
+PSX,Energy
+PT,Public Utilities
+PTGI,Public Utilities
+PTP,Finance
+PTR,Energy
+PUK,Finance
+PULS,Capital Goods
+PVA,Energy
+PVD,Finance
+PVG,Basic Industries
+PVH,Consumer Non-Durables
+PVR,Public Utilities
+PVTD,Finance
+PWE,Energy
+PWR,Capital Goods
+PX,Basic Industries
+PXD,Energy
+PYB,Finance
+PYC,Finance
+PYK,Finance
+PYS,Finance
+PYT,Finance
+PYV,Finance
+PYY,Finance
+PZB,Finance
+PZE,Energy
+PZN,Finance
+QEP,Energy
+QIHU,Technology
+QRE,Energy
+QTM,Technology
+QUAD,Miscellaneous
+R,Consumer Services
+RAD,Health Care
+RAI,Consumer Non-Durables
+RAS,Consumer Services
+RATE,Miscellaneous
+RAX,Technology
+RBA,Miscellaneous
+RBC,Consumer Durables
+RBS,Finance
+RCI,Consumer Services
+RCL,Consumer Services
+RDC,Energy
+RDN,Finance
+RDY,Health Care
+RE,Finance
+REG,Consumer Services
+RENN,Technology
+RES,Energy
+REV,Consumer Non-Durables
+REX,Basic Industries
+RF,Finance
+RFP,Basic Industries
+RGA,Finance
+RGC,Consumer Services
+RGP,Energy
+RGR,Capital Goods
+RGS,Consumer Services
+RH,Consumer Services
+RHI,Technology
+RHP,Consumer Services
+RHT,Technology
+RIG,Energy
+RIO,Basic Industries
+RJD,Finance
+RJF,Finance
+RKT,Consumer Durables
+RKUS,Technology
+RL,Consumer Non-Durables
+RLD,Technology
+RLGY,Finance
+RLH,Consumer Services
+RLI,Finance
+RLJ,Consumer Services
+RM,Finance
+RMD,Health Care
+RNDY,Consumer Services
+RNF,Basic Industries
+RNO,Energy
+RNR,Finance
+ROC,Basic Industries
+ROG,Basic Industries
+ROK,Capital Goods
+ROL,Finance
+ROP,Capital Goods
+ROYT,Energy
+RPAI,Consumer Services
+RPM,Basic Industries
+RPT,Consumer Services
+RRC,Energy
+RRMS,Energy
+RRTS,Transportation
+RS,Basic Industries
+RSE,Finance
+RSG,Public Utilities
+RSH,Consumer Services
+RSO,Consumer Services
+RST,Technology
+RT,Consumer Services
+RTI,Capital Goods
+RTN,Capital Goods
+RUK,Consumer Services
+RWT,Consumer Services
+RXN,Technology
+RY,Finance
+RYL,Capital Goods
+RYN,Consumer Services
+S,Public Utilities
+SA,Basic Industries
+SAH,Consumer Durables
+SAM,Consumer Non-Durables
+SAN,Finance
+SAP,Technology
+SB,Transportation
+SBH,Consumer Services
+SBR,Energy
+SBS,Public Utilities
+SCCO,Basic Industries
+SCG,Public Utilities
+SCHW,Finance
+SCI,Consumer Services
+SCL,Basic Industries
+SCR,Health Care
+SCS,Consumer Durables
+SCU,Public Utilities
+SCX,Capital Goods
+SD,Energy
+SDLP,Energy
+SDR,Energy
+SDT,Energy
+SE,Public Utilities
+SEE,Basic Industries
+SEM,Health Care
+SEMG,Energy
+SEP,Public Utilities
+SF,Finance
+SFB,Finance
+SFE,Finance
+SFG,Finance
+SFI,Consumer Services
+SFL,Transportation
+SFUN,Technology
+SFY,Energy
+SGK,Consumer Durables
+SGU,Consumer Services
+SGY,Energy
+SHG,Finance
+SHI,Basic Industries
+SHO,Consumer Services
+SHW,Consumer Services
+SI,Energy
+SID,Capital Goods
+SIG,Consumer Services
+SIR,Consumer Services
+SIX,Consumer Services
+SJI,Public Utilities
+SJM,Consumer Non-Durables
+SJR,Consumer Services
+SJT,Energy
+SJW,Public Utilities
+SKH,Health Care
+SKM,Public Utilities
+SKS,Consumer Services
+SKT,Consumer Services
+SKX,Consumer Non-Durables
+SLB,Energy
+SLCA,Basic Industries
+SLF,Finance
+SLG,Consumer Services
+SLH,Technology
+SLW,Basic Industries
+SM,Energy
+SMA,Health Care
+SMFG,Finance
+SMG,Basic Industries
+SMI,Technology
+SMLP,Public Utilities
+SMP,Capital Goods
+SN,Energy
+SNA,Capital Goods
+SNE,Consumer Non-Durables
+SNH,Consumer Services
+SNHN,Consumer Services
+SNI,Consumer Services
+SNN,Health Care
+SNP,Energy
+SNV,Finance
+SNX,Technology
+SNY,Health Care
+SO,Public Utilities
+SOL,Technology
+SON,Consumer Durables
+SPA,Technology
+SPB,Energy
+SPF,Capital Goods
+SPG,Consumer Services
+SPH,Consumer Services
+SPLP,Capital Goods
+SPN,Energy
+SPR,Capital Goods
+SPW,Technology
+SQM,Basic Industries
+SQNS,Technology
+SR,Consumer Services
+SRC,Consumer Services
+SRE,Public Utilities
+SRI,Capital Goods
+SRT,Technology
+SSD,Capital Goods
+SSI,Consumer Services
+SSL,Energy
+SSP,Consumer Services
+SSS,Consumer Services
+SSTK,Technology
+SSW,Transportation
+ST,Capital Goods
+STAG,Consumer Services
+STC,Finance
+STE,Health Care
+STI,Finance
+STJ,Health Care
+STL,Finance
+STM,Technology
+STN,Consumer Services
+STNG,Transportation
+STO,Energy
+STON,Consumer Services
+STP,Technology
+STR,Public Utilities
+STRI,Capital Goods
+STT,Finance
+STV,Technology
+STWD,Consumer Services
+STZ,Consumer Non-Durables
+SU,Energy
+SUI,Consumer Services
+SUP,Capital Goods
+SUSP,Energy
+SVM,Basic Industries
+SVU,Consumer Services
+SWC,Basic Industries
+SWFT,Transportation
+SWI,Technology
+SWJ,Capital Goods
+SWK,Capital Goods
+SWM,Basic Industries
+SWN,Energy
+SWS,Finance
+SWU,Capital Goods
+SWX,Public Utilities
+SWY,Consumer Services
+SXC,Basic Industries
+SXE,Public Utilities
+SXI,Technology
+SXL,Energy
+SXT,Basic Industries
+SYA,Finance
+SYK,Health Care
+SYT,Basic Industries
+SYX,Consumer Services
+SYY,Consumer Non-Durables
+T,Public Utilities
+TAC,Public Utilities
+TAHO,Basic Industries
+TAL,Technology
+TAOM,Miscellaneous
+TAP,Consumer Non-Durables
+TARO,Health Care
+TBI,Technology
+TC,Basic Industries
+TCB,Finance
+TCI,Consumer Services
+TCK,Basic Industries
+TCO,Consumer Services
+TCP,Public Utilities
+TD,Finance
+TDA,Public Utilities
+TDC,Technology
+TDE,Public Utilities
+TDG,Capital Goods
+TDI,Public Utilities
+TDJ,Public Utilities
+TDS,Public Utilities
+TDW,Consumer Services
+TDY,Capital Goods
+TE,Public Utilities
+TEF,Public Utilities
+TEG,Public Utilities
+TEL,Consumer Non-Durables
+TEN,Capital Goods
+TEO,Public Utilities
+TER,Capital Goods
+TEU,Transportation
+TEVA,Health Care
+TEX,Capital Goods
+TFG,Finance
+TFX,Health Care
+TG,Capital Goods
+TGH,Technology
+TGI,Capital Goods
+TGP,Consumer Services
+TGS,Public Utilities
+TGT,Consumer Services
+TGX,Capital Goods
+THC,Health Care
+THG,Finance
+THI,Consumer Services
+THO,Consumer Non-Durables
+THR,Energy
+THS,Consumer Non-Durables
+TI,Consumer Services
+TIF,Consumer Services
+TISI,Consumer Services
+TJX,Consumer Services
+TK,Transportation
+TKC,Public Utilities
+TKR,Capital Goods
+TLK,Public Utilities
+TLLP,Energy
+TLM,Energy
+TLP,Energy
+TLYS,Consumer Services
+TM,Capital Goods
+TMH,Technology
+TMK,Finance
+TMO,Capital Goods
+TNC,Technology
+TNH,Basic Industries
+TNK,Consumer Services
+TNP,Transportation
+TOL,Capital Goods
+TOO,Consumer Services
+TOT,Energy
+TOWR,Capital Goods
+TPC,Basic Industries
+TPL,Finance
+TPX,Consumer Durables
+TR,Consumer Non-Durables
+TRC,Finance
+TREX,Basic Industries
+TRGP,Public Utilities
+TRI,Consumer Services
+TRK,Consumer Services
+TRLA,Technology
+TRN,Capital Goods
+TRNO,Finance
+TROX,Basic Industries
+TRP,Public Utilities
+TRQ,Basic Industries
+TRR,Basic Industries
+TRV,Finance
+TRW,Capital Goods
+TS,Basic Industries
+TSL,Technology
+TSM,Technology
+TSN,Consumer Non-Durables
+TSO,Energy
+TSS,Miscellaneous
+TSU,Public Utilities
+TTC,Capital Goods
+TTI,Energy
+TTM,Capital Goods
+TU,Public Utilities
+TUC,Consumer Services
+TUMI,Consumer Non-Durables
+TUP,Consumer Non-Durables
+TV,Consumer Services
+TVC,Public Utilities
+TVE,Public Utilities
+TW,Consumer Services
+TWC,Consumer Services
+TWI,Basic Industries
+TWO,Consumer Services
+TWX,Consumer Services
+TX,Basic Industries
+TXI,Capital Goods
+TXT,Capital Goods
+TYC,Consumer Services
+TYL,Technology
+TZF,Finance
+UA,Consumer Non-Durables
+UAL,Transportation
+UAM,Health Care
+UAN,Basic Industries
+UBA,Consumer Services
+UBP,Consumer Services
+UBS,Finance
+UDR,Consumer Services
+UFI,Consumer Non-Durables
+UFS,Basic Industries
+UGI,Public Utilities
+UGP,Public Utilities
+UHS,Health Care
+UHT,Consumer Services
+UIL,Public Utilities
+UIS,Technology
+UL,Basic Industries
+UMC,Technology
+UMH,Consumer Services
+UN,Basic Industries
+UNF,Consumer Services
+UNH,Health Care
+UNM,Finance
+UNP,Transportation
+UNS,Public Utilities
+UNT,Energy
+UPL,Energy
+UPS,Transportation
+URI,Technology
+URS,Consumer Services
+USB,Finance
+USG,Capital Goods
+USM,Public Utilities
+USNA,Consumer Durables
+USPH,Health Care
+USU,Basic Industries
+UTI,Consumer Services
+UTL,Public Utilities
+UTX,Capital Goods
+UVV,Consumer Services
+UZA,Public Utilities
+V,Miscellaneous
+VAC,Finance
+VAL,Basic Industries
+VALE,Basic Industries
+VAR,Health Care
+VC,Capital Goods
+VCI,Consumer Services
+VCO,Consumer Non-Durables
+VCRA,Consumer Durables
+VE,Public Utilities
+VFC,Consumer Non-Durables
+VG,Public Utilities
+VGR,Consumer Non-Durables
+VHI,Basic Industries
+VIP,Public Utilities
+VIPS,Consumer Services
+VIV,Public Utilities
+VLO,Energy
+VLY,Finance
+VMC,Basic Industries
+VMI,Capital Goods
+VMW,Technology
+VNO,Consumer Services
+VNOD,Consumer Services
+VNR,Energy
+VNTV,Miscellaneous
+VOC,Energy
+VPG,Capital Goods
+VR,Finance
+VRS,Basic Industries
+VRX,Health Care
+VSH,Capital Goods
+VSI,Consumer Non-Durables
+VTR,Consumer Services
+VVC,Public Utilities
+VVI,Miscellaneous
+VZ,Public Utilities
+WAB,Capital Goods
+WAG,Health Care
+WAGE,Miscellaneous
+WAIR,Capital Goods
+WAL,Finance
+WAT,Capital Goods
+WBC,Capital Goods
+WBK,Finance
+WBS,Finance
+WCC,Consumer Non-Durables
+WCG,Health Care
+WCN,Public Utilities
+WD,Finance
+WDAY,Technology
+WDR,Finance
+WEC,Public Utilities
+WES,Public Utilities
+WF,Finance
+WFC,Finance
+WFT,Energy
+WG,Energy
+WGL,Public Utilities
+WGO,Consumer Non-Durables
+WH,Energy
+WHG,Finance
+WHR,Consumer Durables
+WHX,Energy
+WHZ,Energy
+WIT,Technology
+WLK,Basic Industries
+WLL,Energy
+WLP,Health Care
+WLT,Energy
+WM,Public Utilities
+WMB,Public Utilities
+WMC,Consumer Services
+WMK,Consumer Services
+WMT,Consumer Services
+WNC,Capital Goods
+WNR,Energy
+WNS,Miscellaneous
+WOR,Capital Goods
+WPC,Consumer Services
+WPO,Consumer Services
+WPP,Basic Industries
+WPX,Energy
+WPZ,Public Utilities
+WR,Public Utilities
+WRB,Finance
+WRD,Consumer Services
+WRI,Consumer Services
+WRT,Consumer Services
+WSH,Finance
+WSM,Consumer Services
+WSO,Consumer Durables
+WSR,Consumer Services
+WST,Basic Industries
+WTI,Energy
+WTM,Finance
+WTR,Public Utilities
+WTS,Capital Goods
+WTW,Consumer Services
+WU,Miscellaneous
+WWE,Consumer Services
+WWW,Consumer Non-Durables
+WX,Health Care
+WY,Consumer Services
+WYN,Consumer Services
+X,Basic Industries
+XCO,Energy
+XEC,Energy
+XEL,Public Utilities
+XFP,Finance
+XFR,Finance
+XIN,Basic Industries
+XKE,Finance
+XKO,Finance
+XL,Finance
+XLS,Consumer Durables
+XNY,Consumer Non-Durables
+XOM,Energy
+XOXO,Consumer Services
+XPO,Consumer Services
+XRM,Basic Industries
+XRS,Consumer Services
+XRX,Miscellaneous
+XUE,Consumer Services
+XVG,Finance
+XYL,Capital Goods
+Y,Finance
+YELP,Consumer Services
+YGE,Technology
+YOKU,Technology
+YPF,Energy
+YUM,Consumer Services
+YZC,Energy
+ZA,Consumer Non-Durables
+ZEP,Consumer Durables
+ZLC,Consumer Services
+ZMH,Health Care
+ZNH,Transportation
+ZQK,Consumer Non-Durables
+ZX,Capital Goods
+AAME,Finance
+AAON,Capital Goods
+AAPL,Technology
+AAWW,Transportation
+ABAX,Capital Goods
+ABCB,Finance
+ABCD,Consumer Services
+ABCO,Consumer Services
+ABFS,Transportation
+ABIO,Health Care
+ABMD,Health Care
+ABTL,Technology
+ACAD,Health Care
+ACAT,Capital Goods
+ACCL,Technology
+ACET,Consumer Durables
+ACFC,Finance
+ACFN,Consumer Services
+ACGL,Finance
+ACHC,Health Care
+ACHN,Health Care
+ACIW,Technology
+ACLS,Technology
+ACNB,Finance
+ACOR,Health Care
+ACPW,Public Utilities
+ACRX,Health Care
+ACTG,Miscellaneous
+ACTS,Technology
+ACUR,Health Care
+ACXM,Technology
+ADAT,Technology
+ADBE,Technology
+ADEP,Technology
+ADES,Basic Industries
+ADI,Technology
+ADNC,Technology
+ADP,Technology
+ADSK,Technology
+ADTN,Public Utilities
+ADUS,Health Care
+ADVS,Technology
+AEGN,Basic Industries
+AEGR,Health Care
+AEHR,Capital Goods
+AEIS,Capital Goods
+AEPI,Capital Goods
+AETI,Energy
+AEY,Consumer Services
+AEZS,Health Care
+AFAM,Health Care
+AFCB,Finance
+AFCE,Consumer Services
+AFFX,Capital Goods
+AFOP,Technology
+AFSI,Finance
+AGEN,Health Care
+AGIIL,Finance
+AGNC,Consumer Services
+AGNCP,Consumer Services
+AGYS,Technology
+AHGP,Energy
+AHPI,Health Care
+AIMC,Capital Goods
+AIRM,Transportation
+AIRT,Transportation
+AIXG,Technology
+AKAM,Miscellaneous
+AKRX,Health Care
+ALCO,Consumer Non-Durables
+ALCS,Consumer Services
+ALGN,Health Care
+ALGT,Transportation
+ALIM,Health Care
+ALKS,Health Care
+ALLB,Finance
+ALLT,Technology
+ALNY,Health Care
+ALOG,Capital Goods
+ALOT,Technology
+ALSK,Public Utilities
+ALTI,Basic Industries
+ALTR,Technology
+ALVR,Public Utilities
+ALXA,Health Care
+ALXN,Health Care
+AMAG,Health Care
+AMAP,Technology
+AMAT,Technology
+AMBA,Technology
+AMBT,Public Utilities
+AMCC,Technology
+AMCF,Energy
+AMCN,Technology
+AMCX,Consumer Services
+AMED,Health Care
+AMGN,Health Care
+AMIC,Finance
+AMKR,Technology
+AMNB,Finance
+AMOT,Capital Goods
+AMOV,Public Utilities
+AMRB,Finance
+AMRI,Health Care
+AMRN,Health Care
+AMRS,Basic Industries
+AMSC,Consumer Durables
+AMSF,Finance
+AMSG,Health Care
+AMSWA,Technology
+AMWD,Basic Industries
+AMZN,Consumer Services
+ANAC,Health Care
+ANAD,Technology
+ANAT,Finance
+ANCB,Finance
+ANCI,Health Care
+ANCX,Finance
+ANDA,Finance
+ANDAU,Finance
+ANDE,Consumer Services
+ANEN,Technology
+ANGI,Consumer Services
+ANGO,Health Care
+ANIK,Health Care
+ANSS,Technology
+ANTH,Health Care
+AOSL,Technology
+APAGF,Energy
+APEI,Consumer Services
+APFC,Basic Industries
+APOG,Capital Goods
+APOL,Consumer Services
+APPY,Health Care
+APRI,Health Care
+APSA,Consumer Services
+APWC,Basic Industries
+AQUUU,Finance
+ARAY,Health Care
+ARCI,Consumer Services
+ARCP,Consumer Services
+ARCW,Consumer Services
+ARDNA,Consumer Services
+AREX,Energy
+ARIA,Health Care
+ARII,Capital Goods
+ARKR,Consumer Services
+ARLP,Energy
+ARMH,Technology
+ARNA,Health Care
+AROW,Finance
+ARQL,Health Care
+ARRS,Technology
+ARRY,Health Care
+ARTC,Health Care
+ARTNA,Public Utilities
+ARTW,Capital Goods
+ARTX,Energy
+ARUN,Technology
+ARWR,Health Care
+ASBB,Finance
+ASBC,Finance
+ASBCW,Finance
+ASBI,Finance
+ASCMA,Consumer Services
+ASEI,Health Care
+ASFI,Finance
+ASIA,Technology
+ASMI,Technology
+ASML,Technology
+ASNA,Consumer Services
+ASPS,Consumer Services
+ASRV,Finance
+ASRVP,Finance
+ASTC,Capital Goods
+ASTE,Capital Goods
+ASTI,Technology
+ASTM,Health Care
+ASUR,Technology
+ASYS,Technology
+ATAI,Consumer Services
+ATAX,Finance
+ATEA,Technology
+ATEC,Health Care
+ATHN,Miscellaneous
+ATHX,Health Care
+ATLC,Finance
+ATLO,Finance
+ATMI,Basic Industries
+ATML,Technology
+ATNI,Public Utilities
+ATNY,Technology
+ATOS,Health Care
+ATRC,Health Care
+ATRI,Health Care
+ATRM,Capital Goods
+ATRO,Capital Goods
+ATRS,Health Care
+ATSG,Transportation
+ATTU,Technology
+ATVI,Technology
+ATX,Consumer Durables
+AUBN,Finance
+AUDC,Public Utilities
+AUXL,Health Care
+AVAV,Capital Goods
+AVEO,Health Care
+AVGO,Technology
+AVHI,Capital Goods
+AVID,Miscellaneous
+AVNR,Health Care
+AVNW,Technology
+AWAY,Technology
+AWRE,Technology
+AXAS,Energy
+AXTI,Technology
+AZPN,Technology
+BABY,Health Care
+BAGL,Consumer Services
+BAMM,Consumer Services
+BANC,Finance
+BANCL,Finance
+BANF,Finance
+BANFP,Finance
+BANR,Finance
+BASI,Health Care
+BBBY,Consumer Services
+BBCN,Finance
+BBEP,Energy
+BBGI,Consumer Services
+BBNK,Finance
+BBOX,Technology
+BBRG,Consumer Services
+BBSI,Technology
+BCBP,Finance
+BCOM,Consumer Services
+BCOR,Technology
+BCOV,Technology
+BCPC,Basic Industries
+BCRX,Health Care
+BCSB,Finance
+BDE,Consumer Non-Durables
+BDGE,Finance
+BDMS,Health Care
+BDSI,Health Care
+BEAV,Consumer Durables
+BEBE,Consumer Non-Durables
+BECN,Consumer Services
+BELFA,Capital Goods
+BELFB,Capital Goods
+BERK,Finance
+BFIN,Finance
+BGCP,Finance
+BGFV,Consumer Services
+BGMD,Health Care
+BGSC,Finance
+BGSCU,Finance
+BIDU,Technology
+BIIB,Health Care
+BIOD,Health Care
+BIOF,Basic Industries
+BIOL,Health Care
+BIOS,Health Care
+BIRT,Technology
+BJRI,Consumer Services
+BKEP,Energy
+BKEPP,Energy
+BKMU,Finance
+BKSC,Finance
+BKYF,Finance
+BLDP,Energy
+BLDR,Consumer Services
+BLIN,Technology
+BLKB,Technology
+BLMN,Consumer Services
+BLMT,Finance
+BLRX,Health Care
+BMRC,Finance
+BMRN,Health Care
+BMTC,Finance
+BNCL,Finance
+BNCN,Finance
+BNSO,Capital Goods
+BOBE,Consumer Services
+BOCH,Finance
+BODY,Consumer Services
+BOFI,Finance
+BOKF,Finance
+BOLT,Energy
+BONA,Consumer Services
+BONT,Consumer Services
+BOOM,Capital Goods
+BOSC,Technology
+BOTA,Health Care
+BOTJ,Finance
+BPFH,Finance
+BPFHW,Finance
+BPHX,Technology
+BPOP,Finance
+BPOPM,Finance
+BPOPN,Finance
+BRCD,Technology
+BRCM,Technology
+BREW,Consumer Non-Durables
+BRID,Consumer Non-Durables
+BRKL,Finance
+BRKR,Capital Goods
+BRKS,Technology
+BRLI,Health Care
+BSDM,Health Care
+BSET,Consumer Durables
+BSFT,Technology
+BSPM,Health Care
+BSQR,Miscellaneous
+BSRR,Finance
+BSTC,Health Care
+BTUI,Technology
+BUR,Miscellaneous
+BUSE,Finance
+BV,Technology
+BVSN,Technology
+BWEN,Capital Goods
+BWINA,Finance
+BWINB,Finance
+BWLD,Consumer Services
+BYFC,Finance
+CA,Technology
+CAAS,Capital Goods
+CAC,Finance
+CACB,Finance
+CACC,Finance
+CACH,Consumer Services
+CADC,Basic Industries
+CADX,Health Care
+CAFI,Finance
+CAKE,Consumer Services
+CALD,Technology
+CALI,Consumer Services
+CALL,Public Utilities
+CALM,Consumer Non-Durables
+CAMP,Technology
+CAMT,Capital Goods
+CAR,Consumer Services
+CARB,Technology
+CARV,Finance
+CASH,Finance
+CASM,Health Care
+CASS,Miscellaneous
+CASY,Consumer Durables
+CATM,Miscellaneous
+CATY,Finance
+CAVM,Technology
+CBAK,Energy
+CBAN,Finance
+CBEY,Public Utilities
+CBF,Finance
+CBIN,Finance
+CBLI,Health Care
+CBMX,Capital Goods
+CBMXW,Capital Goods
+CBNJ,Finance
+CBNK,Finance
+CBOE,Finance
+CBPO,Health Care
+CBRL,Consumer Services
+CBRX,Health Care
+CBSH,Finance
+CBST,Health Care
+CCBG,Finance
+CCCL,Capital Goods
+CCIH,Technology
+CCIX,Basic Industries
+CCMP,Technology
+CCNE,Finance
+CCOI,Technology
+CCRN,Technology
+CCUR,Technology
+CCXI,Health Care
+CDNS,Technology
+CDTI,Capital Goods
+CDXS,Basic Industries
+CDZI,Public Utilities
+CECE,Capital Goods
+CECO,Consumer Services
+CEDU,Consumer Services
+CELG,Health Care
+CELGZ,Health Care
+CEMP,Health Care
+CENT,Consumer Durables
+CENTA,Consumer Durables
+CENX,Basic Industries
+CERE,Consumer Non-Durables
+CERN,Technology
+CERS,Health Care
+CETV,Consumer Services
+CEVA,Technology
+CFBK,Finance
+CFFI,Finance
+CFFN,Finance
+CFNB,Finance
+CFNL,Finance
+CG,Finance
+CGEN,Health Care
+CGNX,Capital Goods
+CHCI,Capital Goods
+CHCO,Finance
+CHDN,Consumer Services
+CHDX,Health Care
+CHEF,Consumer Non-Durables
+CHEV,Finance
+CHFC,Finance
+CHFN,Finance
+CHKE,Consumer Non-Durables
+CHKP,Technology
+CHLN,Basic Industries
+CHMG,Finance
+CHNR,Basic Industries
+CHOP,Capital Goods
+CHRM,Technology
+CHRW,Transportation
+CHSCP,Consumer Services
+CHTP,Health Care
+CHTR,Consumer Services
+CHUY,Consumer Services
+CHYR,Miscellaneous
+CIDM,Miscellaneous
+CIEN,Public Utilities
+CIMT,Technology
+CINF,Finance
+CISG,Finance
+CITZ,Finance
+CIZN,Finance
+CJJD,Health Care
+CKEC,Consumer Services
+CKSW,Technology
+CLBH,Finance
+CLCT,Miscellaneous
+CLDX,Health Care
+CLFD,Public Utilities
+CLIR,Capital Goods
+CLMS,Finance
+CLMT,Energy
+CLNE,Public Utilities
+CLNT,Technology
+CLRO,Technology
+CLRX,Technology
+CLSN,Health Care
+CLUB,Consumer Services
+CLVS,Health Care
+CLWT,Consumer Durables
+CMCO,Capital Goods
+CMCSA,Consumer Services
+CMCSK,Consumer Services
+CME,Finance
+CMGE,Technology
+CMLS,Consumer Services
+CMSB,Finance
+CMTL,Technology
+CNBC,Finance
+CNBKA,Finance
+CNDO,Health Care
+CNET,Technology
+CNIT,Technology
+CNMD,Health Care
+CNQR,Technology
+CNSI,Miscellaneous
+CNSL,Public Utilities
+CNTF,Miscellaneous
+CNTY,Consumer Services
+CNYD,Consumer Services
+COA,Health Care
+COBK,Finance
+COBR,Technology
+COBZ,Finance
+COCO,Consumer Services
+VIEW,Capital Goods
+COHR,Capital Goods
+COHU,Capital Goods
+COKE,Consumer Non-Durables
+COLB,Finance
+COLM,Consumer Non-Durables
+CONN,Consumer Services
+COOL,Technology
+CORE,Consumer Non-Durables
+CORT,Health Care
+COSI,Consumer Services
+COST,Consumer Services
+COWN,Finance
+CPAH,Miscellaneous
+CPGI,Consumer Durables
+CPHC,Consumer Services
+CPHD,Capital Goods
+CPIX,Health Care
+CPLA,Consumer Services
+CPLP,Transportation
+CPRT,Consumer Durables
+CPRX,Health Care
+CPSI,Technology
+CPSL,Basic Industries
+CPSS,Finance
+CPST,Energy
+CPWR,Technology
+CRAI,Miscellaneous
+CRAY,Technology
+CRDC,Health Care
+CRDS,Technology
+CREE,Technology
+CREG,Miscellaneous
+CRESY,Finance
+CRIS,Health Care
+CRMB,Consumer Non-Durables
+CRMBU,Consumer Non-Durables
+CRMBW,Consumer Non-Durables
+CRME,Health Care
+CRMT,Consumer Durables
+CRNT,Technology
+CROX,Consumer Non-Durables
+BYBK,Finance
+CRRC,Consumer Services
+CRTX,Health Care
+CRUS,Technology
+CRVL,Finance
+CRWN,Consumer Services
+CRWS,Basic Industries
+CRZO,Energy
+CSBK,Finance
+CSCD,Capital Goods
+CSCO,Technology
+CSFL,Finance
+CSGP,Miscellaneous
+CSGS,Technology
+CSII,Health Care
+CSIQ,Technology
+CSOD,Technology
+CSPI,Technology
+CSRE,Technology
+CSTE,Capital Goods
+CSUN,Technology
+CTAS,Consumer Non-Durables
+CTBI,Finance
+CTCH,Consumer Services
+CTCM,Consumer Services
+CTCT,Technology
+CTHR,Consumer Durables
+CTIB,Basic Industries
+CTIC,Health Care
+CTRN,Consumer Services
+CTRP,Miscellaneous
+CTRX,Finance
+CTSH,Technology
+CTWS,Public Utilities
+CTXS,Technology
+CUI,Consumer Services
+CUNB,Finance
+CUTR,Health Care
+CVBF,Finance
+CVCO,Basic Industries
+CVCY,Finance
+CVGI,Capital Goods
+CVGW,Consumer Non-Durables
+CVLT,Technology
+CVLY,Finance
+CVTI,Transportation
+CVV,Technology
+CWBC,Finance
+CWCO,Public Utilities
+CWEI,Energy
+CWST,Public Utilities
+CWTR,Consumer Services
+CXDC,Capital Goods
+CY,Technology
+CYAN,Consumer Durables
+CYBE,Capital Goods
+CYBX,Health Care
+CYCC,Health Care
+CYCCP,Health Care
+CYNO,Health Care
+CYOU,Technology
+CYTK,Health Care
+CYTR,Health Care
+CYTX,Health Care
+CYTXW,Health Care
+CZFC,Finance
+CZNC,Finance
+CZR,Consumer Services
+CZWI,Finance
+DAEG,Technology
+DAIO,Capital Goods
+DAKT,Consumer Durables
+DARA,Health Care
+DATE,Technology
+DAVE,Consumer Services
+DBLE,Energy
+DBLEP,Energy
+DCIN,Consumer Services
+DCIX,Transportation
+DCOM,Finance
+DCTH,Health Care
+DECK,Consumer Non-Durables
+DELL,Technology
+DENN,Consumer Services
+DEPO,Health Care
+DEST,Consumer Services
+DFRG,Consumer Services
+DFZ,Consumer Non-Durables
+DGAS,Public Utilities
+DGICA,Finance
+DGICB,Finance
+DGII,Technology
+DGIT,Miscellaneous
+DGLY,Technology
+DHIL,Finance
+DHRM,Health Care
+DIOD,Technology
+DISCA,Consumer Services
+DISCB,Consumer Services
+DISCK,Consumer Services
+DISH,Consumer Services
+DJCO,Consumer Services
+DLHC,Technology
+DLIA,Consumer Services
+DLLR,Finance
+DLTR,Consumer Services
+DMLP,Energy
+DMND,Consumer Non-Durables
+DMRC,Technology
+DNBF,Finance
+DNDN,Health Care
+DNKN,Consumer Services
+DORM,Capital Goods
+DOVR,Consumer Services
+DRAD,Health Care
+DRAM,Technology
+DRCO,Technology
+DRIV,Technology
+DRRX,Health Care
+DRTX,Health Care
+DRWI,Public Utilities
+DRYS,Transportation
+DSCI,Health Care
+DSCO,Health Care
+DSGX,Technology
+DSPG,Technology
+DSWL,Consumer Non-Durables
+DTLK,Technology
+DTSI,Miscellaneous
+DTV,Consumer Services
+DVAX,Health Care
+DWA,Consumer Services
+DWCH,Technology
+DWSN,Energy
+DXCM,Health Care
+DXPE,Capital Goods
+DXYN,Consumer Durables
+DYAX,Health Care
+DYSL,Capital Goods
+EA,Technology
+EAC,Capital Goods
+EAGL,Finance
+EAGLU,Finance
+EAGLW,Finance
+EBAY,Miscellaneous
+EBIX,Technology
+EBMT,Finance
+EBSB,Finance
+EBTC,Finance
+ECHO,Transportation
+ECOL,Public Utilities
+ECPG,Finance
+ECTE,Health Care
+ECYT,Health Care
+EDAP,Health Care
+EDGW,Technology
+EDMC,Consumer Services
+EDS,Consumer Non-Durables
+EDUC,Consumer Durables
+EEFT,Finance
+EEI,Consumer Services
+EFII,Technology
+EFSC,Finance
+EFUT,Technology
+EGAN,Technology
+EGBN,Finance
+EGHT,Public Utilities
+EGLE,Transportation
+EGOV,Consumer Services
+EHTH,Finance
+EIHI,Finance
+ELGX,Health Care
+ELNK,Technology
+ELON,Technology
+ELOS,Health Care
+ELRC,Technology
+ELSE,Capital Goods
+ELTK,Technology
+EMCF,Finance
+EMCI,Finance
+EMITF,Consumer Services
+EMKR,Technology
+EML,Capital Goods
+EMMS,Consumer Services
+EMMSP,Consumer Services
+ENDP,Health Care
+ENG,Consumer Services
+ENMD,Health Care
+ENOC,Technology
+ENPH,Technology
+ENSG,Health Care
+ENTG,Consumer Non-Durables
+ENTR,Technology
+ENVI,Technology
+ENZN,Health Care
+EONC,Public Utilities
+EOPN,Technology
+EPAX,Consumer Services
+EPAY,Technology
+EPIQ,Technology
+EQIX,Public Utilities
+ERIC,Technology
+ERIE,Finance
+ERII,Technology
+EROC,Energy
+ESBF,Finance
+ESBK,Finance
+ESCA,Consumer Non-Durables
+ESEA,Transportation
+ESGR,Finance
+ESIO,Energy
+ESLT,Capital Goods
+ESMC,Health Care
+ESRX,Health Care
+ESSA,Finance
+ESYS,Capital Goods
+ETFC,Finance
+ETRM,Health Care
+EVAC,Capital Goods
+EVBS,Finance
+EVEP,Energy
+EVOL,Technology
+EWBC,Finance
+EXA,Technology
+EXAC,Health Care
+EXAR,Technology
+EXAS,Health Care
+EXEL,Health Care
+EXFO,Capital Goods
+EXLP,Public Utilities
+EXLS,Miscellaneous
+EXPD,Transportation
+EXPE,Consumer Services
+EXPO,Consumer Services
+EXTR,Technology
+EXXI,Energy
+EZCH,Technology
+EZPW,Consumer Services
+FALC,Technology
+FANG,Energy
+FARM,Consumer Non-Durables
+FARO,Capital Goods
+FAST,Consumer Services
+FB,Technology
+FBIZ,Finance
+FBMI,Finance
+FBMS,Finance
+FBNC,Finance
+FBNK,Finance
+FBRC,Finance
+FBSS,Finance
+FCAP,Finance
+FCBC,Finance
+FCCO,Finance
+FCCY,Finance
+FCEL,Energy
+FCFS,Consumer Services
+FCLF,Finance
+FCNCA,Finance
+FCTY,Finance
+FCVA,Finance
+FCZA,Finance
+FDEF,Finance
+FDML,Capital Goods
+FEIC,Capital Goods
+FEIM,Capital Goods
+FELE,Consumer Durables
+FES,Energy
+FFBC,Finance
+FFBCW,Finance
+FFBH,Finance
+FFCO,Finance
+FFHL,Capital Goods
+FFIC,Finance
+FFIN,Finance
+FFIV,Technology
+FFKT,Finance
+FFKY,Finance
+FFNM,Finance
+FFNW,Finance
+FHCO,Basic Industries
+FIBK,Finance
+FINL,Consumer Services
+FISI,Finance
+FISV,Technology
+FITB,Finance
+FIVE,Consumer Services
+FIZZ,Consumer Non-Durables
+FLDM,Capital Goods
+FLEX,Technology
+FLIC,Finance
+FLIR,Capital Goods
+FLML,Health Care
+FLOW,Capital Goods
+FLWS,Consumer Services
+FLXS,Consumer Durables
+FMBI,Finance
+FMER,Finance
+FMNB,Finance
+FNFG,Finance
+FNGN,Finance
+FNHC,Finance
+FNLC,Finance
+FNSR,Technology
+FOLD,Health Care
+FONR,Health Care
+FORD,Consumer Non-Durables
+FORM,Technology
+FORR,Consumer Services
+FORTY,Technology
+FOSL,Consumer Non-Durables
+FRAN,Consumer Services
+FRBK,Finance
+FRED,Consumer Services
+FREE,Transportation
+FRGI,Consumer Services
+FRME,Finance
+FRNK,Finance
+FRP,Public Utilities
+FSBK,Finance
+FSBW,Finance
+FSFG,Finance
+FSGI,Finance
+FSLR,Technology
+FSRV,Finance
+FSTR,Basic Industries
+FSYS,Capital Goods
+FTEK,Capital Goods
+FTNT,Technology
+FTR,Public Utilities
+FUBC,Finance
+FULT,Finance
+FUNC,Finance
+FURX,Health Care
+FWLT,Basic Industries
+FWRD,Transportation
+FXCB,Finance
+FXEN,Energy
+GABC,Finance
+GAGA,Consumer Non-Durables
+GAI,Consumer Durables
+GAIA,Consumer Services
+GALE,Health Care
+GALT,Health Care
+GALTU,Health Care
+GALTW,Health Care
+GAME,Miscellaneous
+GASS,Transportation
+GBCI,Finance
+GBLI,Finance
+GBNK,Finance
+GCBC,Finance
+GCOM,Technology
+GCVRZ,Health Care
+GENC,Capital Goods
+GENE,Health Care
+GENT,Health Care
+GEOS,Capital Goods
+GERN,Health Care
+GEVA,Health Care
+GEVO,Basic Industries
+GFED,Finance
+GFN,Consumer Services
+GGAL,Finance
+GHDX,Health Care
+GIFI,Capital Goods
+GIGA,Capital Goods
+GIGM,Technology
+GIII,Consumer Non-Durables
+GILD,Health Care
+GILT,Technology
+GIVN,Health Care
+GK,Consumer Services
+GKNT,Consumer Services
+GLBS,Transportation
+GLBZ,Finance
+GLCH,Finance
+GLDC,Consumer Non-Durables
+GLDD,Basic Industries
+GLNG,Consumer Services
+GLPW,Capital Goods
+GLRE,Finance
+GLUU,Technology
+GMAN,Consumer Services
+GMCR,Consumer Non-Durables
+GMETP,Energy
+GMLP,Consumer Services
+GNCMA,Public Utilities
+GNMK,Health Care
+GNTX,Capital Goods
+GNVC,Health Care
+GOLD,Basic Industries
+GOOD,Consumer Services
+GOODN,Consumer Services
+GOODO,Consumer Services
+GOODP,Consumer Services
+GOOG,Technology
+GPIC,Consumer Non-Durables
+GPOR,Energy
+GPRC,Basic Industries
+GPRE,Basic Industries
+GRFS,Health Care
+GRIF,Finance
+GRMN,Capital Goods
+GROW,Finance
+GRPN,Technology
+GRVY,Miscellaneous
+GSBC,Finance
+GSIG,Energy
+GSIT,Technology
+GSJK,Energy
+GSM,Capital Goods
+GSOL,Consumer Services
+GTAT,Technology
+GTIM,Consumer Services
+GTIV,Health Care
+GTLS,Capital Goods
+GTWN,Finance
+GTXI,Health Care
+GUID,Technology
+GURE,Basic Industries
+GYRO,Consumer Services
+HA,Transportation
+HAFC,Finance
+HAIN,Consumer Non-Durables
+HALL,Finance
+HALO,Health Care
+HAS,Consumer Non-Durables
+HAST,Consumer Services
+HAUP,Technology
+HAYN,Capital Goods
+HBAN,Finance
+HBANP,Finance
+HBCP,Finance
+HBHC,Finance
+HBIO,Capital Goods
+HBK,Finance
+HBMD,Finance
+HBNC,Finance
+HBNK,Finance
+HBOS,Finance
+HCBK,Finance
+HCCI,Basic Industries
+HCIIP,Finance
+HCKT,Consumer Services
+HCOM,Consumer Services
+HCSG,Finance
+HDNG,Capital Goods
+HDSN,Consumer Durables
+HELE,Consumer Durables
+HEOP,Finance
+HERO,Energy
+HFBC,Finance
+HFBL,Finance
+HFFC,Finance
+HFWA,Finance
+HGSH,Finance
+HIBB,Consumer Services
+HIHO,Capital Goods
+HILL,Technology
+HIMX,Technology
+HITK,Health Care
+HITT,Technology
+HLIT,Technology
+HLSS,Finance
+HMIN,Consumer Services
+HMNF,Finance
+HMNY,Consumer Services
+HMPR,Finance
+HMST,Finance
+HMSY,Miscellaneous
+HNH,Capital Goods
+HNRG,Energy
+HNSN,Health Care
+HOFT,Consumer Durables
+HOLI,Energy
+HOLL,Consumer Services
+HOLX,Health Care
+HOMB,Finance
+HOME,Finance
+HOVNP,Capital Goods
+HPAC,Finance
+HPCCP,Consumer Services
+HPJ,Energy
+HPOL,Consumer Services
+HPTX,Health Care
+HSIC,Health Care
+HSII,Technology
+HSKA,Health Care
+HSNI,Consumer Services
+HSOL,Technology
+HSON,Technology
+HSTM,Technology
+HTBI,Finance
+HTBK,Finance
+HTCH,Capital Goods
+HTCO,Public Utilities
+HTHT,Consumer Services
+HTLD,Transportation
+HTLF,Finance
+HTWR,Health Care
+HUBG,Transportation
+HURC,Capital Goods
+HURN,Consumer Services
+HWAY,Health Care
+HWBK,Finance
+HWCC,Consumer Non-Durables
+HWKN,Consumer Durables
+HYGS,Basic Industries
+HZNP,Health Care
+IACI,Consumer Services
+IART,Capital Goods
+IBCA,Finance
+IBCP,Finance
+IBKC,Finance
+IBKR,Finance
+IBOC,Finance
+ICAD,Health Care
+ICCC,Health Care
+ICFI,Consumer Services
+ICGE,Consumer Services
+ICLR,Health Care
+ICON,Consumer Non-Durables
+ICPT,Health Care
+ICUI,Health Care
+IDCC,Miscellaneous
+IDIX,Health Care
+IDRA,Health Care
+IDSA,Basic Industries
+IDSY,Consumer Durables
+IDTI,Technology
+IDXX,Health Care
+IEP,Capital Goods
+IFON,Consumer Non-Durables
+IGLD,Public Utilities
+IGOI,Technology
+IGTE,Technology
+III,Consumer Services
+IIIN,Capital Goods
+IIJI,Technology
+IILG,Finance
+IIN,Capital Goods
+IIVI,Capital Goods
+IKAN,Public Utilities
+IKNX,Miscellaneous
+ILMN,Capital Goods
+IMGN,Health Care
+IMI,Technology
+IMKTA,Consumer Services
+IMMR,Technology
+IMMU,Health Care
+IMOS,Technology
+IMRS,Health Care
+INAP,Technology
+INCY,Health Care
+INDB,Finance
+INFA,Technology
+INFI,Health Care
+INFN,Public Utilities
+INFY,Technology
+ININ,Technology
+INOC,Miscellaneous
+INOD,Technology
+INPH,Technology
+INSM,Health Care
+INTC,Technology
+INTG,Consumer Services
+INTL,Finance
+INTU,Technology
+INTX,Technology
+INVE,Technology
+INWK,Consumer Durables
+INXB,Finance
+INXBU,Finance
+IOSP,Basic Industries
+IPAR,Consumer Non-Durables
+IPAS,Technology
+IPCC,Finance
+IPCI,Health Care
+IPCM,Health Care
+IPGP,Technology
+IPHS,Consumer Durables
+IPXL,Health Care
+IQNT,Public Utilities
+IRBT,Consumer Durables
+IRDM,Consumer Durables
+IRDMZ,Consumer Durables
+IRET,Consumer Services
+IRG,Consumer Services
+IRIX,Health Care
+IROQ,Finance
+IRWD,Health Care
+ISBC,Finance
+ISCA,Consumer Services
+ISIG,Consumer Services
+ISIL,Technology
+ISIS,Health Care
+ISLE,Consumer Services
+ISM,Finance
+ISNS,Capital Goods
+ISRG,Health Care
+ISRL,Energy
+ISSC,Technology
+ISSI,Technology
+ITIC,Finance
+ITMN,Health Care
+ITRI,Capital Goods
+ITRN,Consumer Non-Durables
+IVAC,Technology
+IVAN,Energy
+IXYS,Technology
+JACK,Consumer Services
+JACQU,Finance
+JAKK,Consumer Non-Durables
+JASO,Technology
+JAXB,Finance
+JAZZ,Health Care
+JBHT,Transportation
+JBLU,Transportation
+JBSS,Consumer Non-Durables
+JCOM,Technology
+JCS,Public Utilities
+JCTCF,Consumer Services
+JDSU,Technology
+JFBI,Finance
+JIVE,Technology
+JJSF,Consumer Non-Durables
+JKHY,Technology
+JMBA,Consumer Services
+JOBS,Technology
+JOEZ,Consumer Non-Durables
+JOSB,Consumer Services
+JOUT,Consumer Non-Durables
+JRCC,Energy
+JRJC,Miscellaneous
+JSM,Finance
+JST,Consumer Durables
+JVA,Consumer Non-Durables
+JXSB,Finance
+KALU,Capital Goods
+KBALB,Technology
+KCLI,Finance
+KELYA,Technology
+KELYB,Technology
+KEQU,Capital Goods
+KERX,Health Care
+KEYW,Technology
+KFFB,Finance
+KFRC,Technology
+KGJI,Miscellaneous
+KINS,Finance
+KIOR,Basic Industries
+KIPS,Health Care
+KIRK,Consumer Services
+KLAC,Capital Goods
+KLIC,Technology
+KNDI,Capital Goods
+KONA,Consumer Services
+KONE,Technology
+KONG,Technology
+KOOL,Capital Goods
+KOPN,Technology
+KOSS,Consumer Non-Durables
+KRFT,Consumer Non-Durables
+KRNY,Finance
+KTCC,Technology
+KTEC,Technology
+KTOS,Capital Goods
+KUTV,Consumer Services
+KVHI,Technology
+KYTH,Health Care
+LABC,Finance
+LABL,Miscellaneous
+LACO,Consumer Services
+LAKE,Health Care
+LAMR,Technology
+LANC,Consumer Non-Durables
+LARK,Finance
+LAWS,Consumer Durables
+LAYN,Basic Industries
+LBAI,Finance
+LBIX,Consumer Non-Durables
+LBTYA,Consumer Services
+LBTYB,Consumer Services
+LCAV,Health Care
+LCNB,Finance
+LCUT,Capital Goods
+LEAP,Public Utilities
+LECO,Technology
+LEDS,Technology
+LFUS,Consumer Durables
+LFVN,Health Care
+LGCY,Energy
+LGND,Health Care
+LHCG,Health Care
+LIFE,Health Care
+LIME,Basic Industries
+LINC,Consumer Services
+LINE,Energy
+LINTA,Consumer Services
+LINTB,Consumer Services
+LION,Finance
+LIOX,Miscellaneous
+LIVE,Technology
+LIWA,Capital Goods
+LKFN,Finance
+LKQ,Consumer Services
+LLEN,Energy
+LLNW,Miscellaneous
+LLTC,Technology
+LMAT,Health Care
+LMCA,Consumer Services
+LMCB,Consumer Services
+LMIA,Capital Goods
+LMNR,Consumer Non-Durables
+LMNX,Health Care
+LMOS,Public Utilities
+LNBB,Finance
+LNCE,Consumer Non-Durables
+LNCO,Energy
+LNDC,Basic Industries
+LOAN,Finance
+LOCM,Miscellaneous
+LOGI,Technology
+LOGM,Technology
+LOJN,Consumer Durables
+LONG,Consumer Services
+LOOK,Technology
+LOPE,Consumer Services
+LORL,Technology
+LPHI,Finance
+LPLA,Finance
+LPNT,Health Care
+LPSB,Finance
+LPSN,Technology
+LPTH,Technology
+LPTN,Health Care
+LQDT,Miscellaneous
+LRAD,Consumer Non-Durables
+LRCX,Technology
+LSBI,Finance
+LSBK,Finance
+LSCC,Technology
+LSTR,Transportation
+LTBR,Consumer Services
+LTON,Technology
+LTRE,Consumer Services
+LTRX,Technology
+LTXC,Capital Goods
+LULU,Consumer Non-Durables
+LUNA,Health Care
+LVNTA,Consumer Services
+LVNTB,Consumer Services
+LWAY,Consumer Non-Durables
+LXRX,Health Care
+LYTS,Consumer Durables
+MACK,Health Care
+MAG,Capital Goods
+MAGS,Consumer Durables
+MAKO,Health Care
+MANH,Technology
+MANT,Consumer Services
+MARK,Consumer Services
+MARPS,Energy
+MASC,Capital Goods
+MASI,Health Care
+MAT,Consumer Non-Durables
+MATR,Consumer Services
+MATW,Capital Goods
+MAYS,Consumer Services
+MBFI,Finance
+MBLX,Basic Industries
+MBRG,Finance
+MBTF,Finance
+MBVT,Finance
+MBWM,Finance
+MCBC,Finance
+MCBI,Finance
+MCBK,Finance
+MCEP,Energy
+MCHP,Technology
+MCHX,Miscellaneous
+MCOX,Consumer Non-Durables
+MCRI,Consumer Services
+MCRL,Technology
+MCRS,Technology
+MDAS,Technology
+MDCA,Technology
+MDCI,Health Care
+MDCO,Health Care
+MDLZ,Consumer Non-Durables
+MDRX,Technology
+MDSO,Technology
+MDVN,Health Care
+MEAS,Capital Goods
+MEIL,Basic Industries
+MEIP,Health Care
+MELA,Health Care
+MELI,Miscellaneous
+MEMP,Energy
+MENT,Technology
+MEOH,Basic Industries
+MERC,Basic Industries
+MERU,Technology
+METR,Finance
+MFI,Finance
+MFLR,Finance
+MFLX,Technology
+MFNC,Finance
+MFRI,Capital Goods
+MFRM,Consumer Services
+MFSF,Finance
+MGAM,Consumer Services
+MGCD,Health Care
+MGEE,Energy
+MGIC,Technology
+MGLN,Health Care
+MGPI,Consumer Non-Durables
+MGRC,Technology
+MGYR,Finance
+MHLD,Finance
+MIDD,Technology
+MIND,Technology
+MINI,Capital Goods
+MITK,Technology
+MITL,Technology
+MKSI,Capital Goods
+MKTG,Technology
+MKTX,Finance
+MLAB,Capital Goods
+MLHR,Consumer Durables
+MLNK,Miscellaneous
+MLNX,Technology
+MLVF,Finance
+MMLP,Energy
+MMSI,Health Care
+MMYT,Consumer Services
+MNDO,Technology
+MNGA,Technology
+MNKD,Health Care
+MNOV,Health Care
+MNRK,Finance
+MNRO,Consumer Services
+MNST,Consumer Non-Durables
+MNTA,Health Care
+MNTG,Consumer Services
+MNTX,Technology
+MOBI,Technology
+MOCO,Capital Goods
+MOFG,Finance
+MOLX,Capital Goods
+MOLXA,Capital Goods
+MORN,Finance
+MOSY,Technology
+MOVE,Finance
+MPAA,Capital Goods
+MPB,Finance
+MPEL,Consumer Services
+MPET,Energy
+MPWR,Technology
+MRCY,Capital Goods
+MRGE,Technology
+MRLN,Finance
+MRTN,Transportation
+MRVL,Technology
+MSBF,Finance
+MSCC,Technology
+MSEX,Public Utilities
+MSFG,Finance
+MSFT,Technology
+MSG,Consumer Services
+MSLI,Health Care
+MSON,Capital Goods
+MSPD,Technology
+MSTR,Technology
+MTEX,Consumer Durables
+MTGE,Consumer Services
+MTRX,Basic Industries
+MTSC,Capital Goods
+MTSI,Technology
+MTSL,Public Utilities
+MTSN,Technology
+MU,Technology
+MVIS,Capital Goods
+MWIV,Health Care
+MXIM,Technology
+MXWL,Energy
+MYGN,Health Care
+MYL,Health Care
+MYRG,Basic Industries
+NAFC,Consumer Non-Durables
+NAII,Consumer Durables
+NANO,Capital Goods
+NASB,Finance
+NATH,Consumer Services
+NATI,Technology
+NATL,Finance
+NATR,Health Care
+NAUH,Consumer Services
+NAVG,Finance
+NBBC,Finance
+NBIX,Health Care
+NBN,Finance
+NBTB,Finance
+NBTF,Finance
+NCBC,Finance
+NCIT,Technology
+NCMI,Consumer Services
+NCTY,Miscellaneous
+NDAQ,Finance
+NDSN,Capital Goods
+NECB,Finance
+NEOG,Health Care
+NEON,Capital Goods
+NEPT,Health Care
+NETC,Consumer Services
+NETE,Technology
+NEWL,Transportation
+NEWP,Capital Goods
+NEWS,Finance
+NEWT,Miscellaneous
+NFBK,Finance
+NFEC,Capital Goods
+NFLX,Consumer Services
+NHTB,Finance
+NICE,Technology
+NICK,Finance
+NIHD,Public Utilities
+NILE,Consumer Services
+NINE,Technology
+NKSH,Finance
+NKTR,Health Care
+NLNK,Health Care
+NLST,Technology
+NMRX,Consumer Durables
+NNBR,Capital Goods
+NOVB,Finance
+NPBC,Finance
+NPSP,Health Care
+NRIM,Finance
+NSEC,Finance
+NSIT,Consumer Services
+NSPH,Health Care
+NSSC,Consumer Durables
+NSYS,Capital Goods
+NTAP,Technology
+NTCT,Technology
+NTES,Miscellaneous
+NTGR,Public Utilities
+NTIC,Capital Goods
+NTK,Consumer Durables
+NTLS,Public Utilities
+NTRI,Consumer Services
+NTRS,Finance
+NTSC,Health Care
+NTWK,Technology
+NUAN,Technology
+NUTR,Consumer Durables
+NUVA,Health Care
+NVAX,Health Care
+NVDA,Technology
+NVDQ,Health Care
+NVEC,Technology
+NVGN,Health Care
+NVMI,Capital Goods
+NVSL,Finance
+NVTL,Consumer Durables
+NWBI,Finance
+NWFL,Finance
+NWLI,Finance
+NWPX,Basic Industries
+NXPI,Technology
+NXST,Consumer Services
+NXTM,Health Care
+NYMT,Consumer Services
+NYMX,Health Care
+NYNY,Consumer Services
+OABC,Finance
+OBAF,Finance
+OBAS,Finance
+OBCI,Consumer Durables
+OCC,Basic Industries
+OCFC,Finance
+OCLR,Technology
+OCLS,Health Care
+OCZ,Technology
+ODFL,Transportation
+OFED,Finance
+OFIX,Health Care
+OFLX,Capital Goods
+OGXI,Health Care
+OIIM,Technology
+OINK,Consumer Non-Durables
+OKSB,Finance
+OLBK,Finance
+OMAB,Transportation
+OMCL,Technology
+OMER,Health Care
+OMEX,Consumer Services
+ONCY,Health Care
+ONFC,Finance
+ONNN,Technology
+ONTY,Health Care
+ONVI,Miscellaneous
+OPAY,Miscellaneous
+OPEN,Miscellaneous
+OPHC,Finance
+OPLK,Public Utilities
+OPOF,Finance
+OPTR,Health Care
+OPTT,Public Utilities
+OPXA,Health Care
+ORBC,Consumer Services
+ORBK,Capital Goods
+ORBT,Capital Goods
+ORCL,Technology
+OREX,Health Care
+ORIG,Energy
+ORIT,Finance
+ORLY,Consumer Services
+ORRF,Finance
+OSBC,Finance
+OSBCP,Finance
+OSHC,Finance
+OSIR,Health Care
+OSIS,Technology
+OSM,Finance
+OSN,Basic Industries
+OSTK,Consumer Services
+OSUR,Health Care
+OTEX,Technology
+OTIV,Technology
+OTTR,Public Utilities
+OVBC,Finance
+OVLY,Finance
+OVRL,Technology
+OVTI,Technology
+OXBT,Health Care
+OXGN,Health Care
+OZRK,Finance
+PAAS,Basic Industries
+PACB,Capital Goods
+PACR,Transportation
+PACT,Technology
+PACW,Finance
+PAMT,Consumer Durables
+PATH,Health Care
+PATK,Basic Industries
+PATR,Transportation
+PAYX,Consumer Services
+PBCP,Finance
+PBCT,Finance
+PBHC,Finance
+PBIB,Finance
+PBIP,Finance
+PBMD,Health Care
+PBSK,Finance
+PCAR,Capital Goods
+PCBK,Finance
+PCCC,Consumer Services
+PCH,Consumer Services
+PCLN,Miscellaneous
+PCO,Miscellaneous
+PCOM,Miscellaneous
+PCRX,Health Care
+PCTI,Technology
+PCYC,Health Care
+PCYO,Public Utilities
+PDCE,Energy
+PDCO,Health Care
+PDEX,Health Care
+PDFS,Technology
+PDII,Miscellaneous
+PDLI,Health Care
+PEBK,Finance
+PEBO,Finance
+PEGA,Technology
+PEIX,Basic Industries
+PENN,Consumer Services
+PENX,Consumer Non-Durables
+PEOP,Finance
+PERF,Consumer Services
+PERI,Technology
+PERY,Consumer Non-Durables
+PESI,Basic Industries
+PETM,Consumer Services
+PETS,Health Care
+PFBI,Finance
+PFBX,Finance
+PFIN,Technology
+PFMT,Consumer Services
+PFPT,Technology
+PFSW,Miscellaneous
+PGC,Finance
+PGNX,Health Care
+PGRX,Basic Industries
+PGTI,Capital Goods
+PHII,Transportation
+PHIIK,Transportation
+PHMD,Health Care
+PICO,Finance
+PKBK,Finance
+PKOH,Capital Goods
+PKT,Technology
+PLAB,Technology
+PLBC,Finance
+PLCC,Finance
+PLCE,Consumer Services
+PLCM,Public Utilities
+PLMT,Finance
+PLNR,Capital Goods
+PLPC,Basic Industries
+PLUG,Energy
+PLUS,Technology
+PLXS,Technology
+PLXT,Technology
+PMBC,Finance
+PMCS,Technology
+PMD,Health Care
+PMFG,Capital Goods
+PMTC,Technology
+PNBK,Finance
+PNFP,Finance
+PNRA,Consumer Services
+PNRG,Energy
+PNTR,Technology
+PODD,Health Care
+POOL,Consumer Durables
+POPE,Consumer Non-Durables
+POWI,Technology
+POWL,Consumer Durables
+POWR,Miscellaneous
+POZN,Health Care
+PPBI,Finance
+PPHM,Health Care
+PRAA,Finance
+PRAN,Health Care
+PRCP,Capital Goods
+PRFT,Technology
+PRGO,Health Care
+PRGS,Technology
+PRGX,Consumer Services
+PRIM,Basic Industries
+PRKR,Technology
+PRLS,Technology
+PRMW,Consumer Non-Durables
+PROV,Finance
+PRPH,Health Care
+PRSC,Health Care
+PRSS,Consumer Services
+PRTS,Consumer Services
+PRXI,Consumer Services
+PRXL,Health Care
+PSBH,Finance
+PSDV,Capital Goods
+PSEM,Technology
+PSMI,Technology
+PSMT,Consumer Services
+PSTB,Finance
+PSTI,Health Care
+PSTR,Energy
+PSUN,Consumer Services
+PTEK,Consumer Durables
+PTEN,Energy
+PTIE,Health Care
+PTIX,Technology
+PTNR,Public Utilities
+PTNT,Miscellaneous
+PTRY,Consumer Durables
+PTSI,Transportation
+PTSX,Consumer Services
+PULB,Finance
+PVTB,Finance
+PVTBP,Finance
+PWOD,Finance
+PWRD,Miscellaneous
+PWX,Transportation
+PXLW,Technology
+PZZA,Consumer Services
+PZZI,Consumer Non-Durables
+QADA,Technology
+QADB,Technology
+QBAK,Technology
+QCCO,Finance
+QCOM,Technology
+QCOR,Health Care
+QCRH,Finance
+QDEL,Health Care
+QGEN,Health Care
+QKLS,Consumer Services
+QLGC,Technology
+QLIK,Technology
+QLTI,Health Care
+QLTY,Transportation
+QLYS,Technology
+QNST,Miscellaneous
+QSII,Technology
+QTWW,Capital Goods
+QUIK,Technology
+RADA,Consumer Non-Durables
+RAIL,Capital Goods
+RAVN,Capital Goods
+RBCAA,Finance
+RBCN,Technology
+RBPAA,Finance
+RCII,Technology
+RCKB,Finance
+RCKY,Consumer Non-Durables
+RCMT,Technology
+RCON,Energy
+RDA,Technology
+RDCM,Technology
+RDEN,Consumer Non-Durables
+RDI,Consumer Services
+RDIB,Consumer Services
+RDNT,Health Care
+RDWR,Miscellaneous
+RECN,Miscellaneous
+RECV,Energy
+REDF,Consumer Services
+REFR,Miscellaneous
+REGI,Basic Industries
+REGN,Health Care
+REIS,Miscellaneous
+RELL,Consumer Non-Durables
+RELV,Health Care
+RENT,Consumer Services
+REXI,Finance
+REXX,Energy
+RFIL,Capital Goods
+RFMD,Technology
+RGCO,Public Utilities
+RGDX,Health Care
+RGEN,Health Care
+RGLD,Basic Industries
+RGLS,Health Care
+RICK,Consumer Services
+RIGL,Health Care
+RITT,Consumer Durables
+RIVR,Finance
+RJET,Transportation
+RLJE,Consumer Services
+RLOC,Technology
+RLOG,Consumer Services
+RMBS,Technology
+RMCF,Consumer Non-Durables
+RMTI,Health Care
+RNET,Consumer Services
+RNST,Finance
+RNWK,Technology
+ROCK,Capital Goods
+ROCM,Health Care
+ROIA,Consumer Services
+ROIAK,Consumer Services
+ROIC,Consumer Services
+ROICW,Consumer Services
+ROIQU,Finance
+ROLL,Capital Goods
+ROMA,Finance
+ROSE,Energy
+ROSG,Health Care
+ROST,Consumer Services
+ROVI,Consumer Services
+ROYL,Energy
+RP,Technology
+RPRX,Health Care
+RPTP,Health Care
+RPXC,Miscellaneous
+RRD,Miscellaneous
+RRGB,Consumer Services
+RRST,Consumer Services
+RSOL,Basic Industries
+RSTI,Energy
+RSYS,Technology
+RTEC,Capital Goods
+RTIX,Health Care
+RUSHA,Consumer Durables
+RUSHB,Consumer Durables
+RUTH,Consumer Services
+RVBD,Technology
+RVLT,Basic Industries
+RVSB,Finance
+RYAAY,Transportation
+SAAS,Public Utilities
+SAFM,Consumer Non-Durables
+SAFT,Finance
+SAIA,Transportation
+SALM,Consumer Services
+SANM,Technology
+SANW,Consumer Non-Durables
+SANWZ,Consumer Non-Durables
+SAPE,Technology
+SASR,Finance
+SATS,Technology
+SAVE,Transportation
+SBAC,Consumer Services
+SBBX,Finance
+SBCF,Finance
+SBGI,Consumer Services
+SBLK,Transportation
+SBNY,Finance
+SBNYW,Finance
+SBRA,Consumer Services
+SBSA,Consumer Services
+SBSI,Finance
+SBUX,Consumer Services
+SCBT,Finance
+SCHL,Consumer Services
+SCHN,Consumer Durables
+SCLN,Health Care
+SCMP,Health Care
+SCOK,Basic Industries
+SCON,Technology
+SCOR,Miscellaneous
+SCSC,Technology
+SCSS,Consumer Durables
+SCVL,Consumer Services
+SEAC,Technology
+SEED,Consumer Non-Durables
+SEIC,Finance
+SENEA,Consumer Non-Durables
+SENEB,Consumer Non-Durables
+SEV,Energy
+SFBC,Finance
+SFLY,Miscellaneous
+SFNC,Finance
+SFST,Finance
+SGC,Consumer Non-Durables
+SGEN,Health Care
+SGI,Technology
+SGMA,Technology
+SGMO,Health Care
+SGMS,Technology
+SGNT,Health Care
+SGOC,Technology
+SGRP,Miscellaneous
+SGYP,Health Care
+SGYPU,Health Care
+SGYPW,Health Care
+SHBI,Finance
+SHEN,Public Utilities
+SHFL,Consumer Durables
+SHIP,Transportation
+SHLD,Consumer Services
+SHLM,Basic Industries
+SHLO,Capital Goods
+SHOO,Consumer Non-Durables
+SHOR,Public Utilities
+SHOS,Consumer Services
+SHPG,Health Care
+SIAL,Consumer Durables
+SIBC,Finance
+SIEB,Finance
+SIFI,Finance
+SIFY,Technology
+SIGA,Health Care
+SIGI,Finance
+SIGM,Technology
+SILC,Technology
+SIMG,Capital Goods
+SIMO,Technology
+SINA,Technology
+SINO,Transportation
+SIRI,Consumer Services
+SIRO,Health Care
+SIVB,Finance
+SIVBO,Finance
+SKBI,Health Care
+SKUL,Consumer Non-Durables
+SKYW,Transportation
+SLAB,Technology
+SLGN,Consumer Durables
+SLM,Finance
+SLMAP,Finance
+SLMBP,Finance
+SLP,Technology
+SLTC,Technology
+SLTM,Health Care
+SLXP,Health Care
+SMBC,Finance
+SMCI,Technology
+SMED,Basic Industries
+SMIT,Capital Goods
+SMMF,Finance
+SMPL,Finance
+SMRT,Consumer Services
+SMSI,Technology
+SMT,Technology
+SMTC,Technology
+SMTX,Technology
+SNAK,Consumer Non-Durables
+SNBC,Finance
+SNCR,Technology
+SNDK,Technology
+SNFCA,Finance
+SNHY,Capital Goods
+SNMX,Health Care
+SNPS,Technology
+SNSS,Health Care
+SNTA,Health Care
+SNTS,Health Care
+SOCB,Finance
+SODA,Consumer Durables
+SOFO,Technology
+SOHU,Technology
+SONA,Finance
+SONC,Consumer Services
+SONS,Technology
+SORL,Capital Goods
+SPAN,Health Care
+SPAR,Capital Goods
+SPBC,Finance
+SPCHA,Consumer Services
+SPCHB,Consumer Services
+SPEX,Health Care
+SPIL,Technology
+SPLK,Technology
+SPLS,Consumer Services
+SPNC,Health Care
+SPNS,Technology
+SPPI,Health Care
+SPPR,Consumer Services
+SPPRO,Consumer Services
+SPPRP,Consumer Services
+SPRD,Technology
+SPRO,Consumer Services
+SPRT,Technology
+SPSC,Technology
+SPTN,Consumer Non-Durables
+SPU,Consumer Non-Durables
+SPWR,Technology
+SQI,Technology
+SQNM,Capital Goods
+SRCE,Finance
+SRCL,Basic Industries
+SRDX,Health Care
+SREV,Miscellaneous
+SRPT,Health Care
+SSFN,Finance
+SSH,Health Care
+SSNC,Technology
+SSRI,Basic Industries
+SSYS,Technology
+STAA,Health Care
+STAN,Consumer Services
+STB,Transportation
+STBA,Finance
+STBZ,Finance
+STEI,Consumer Services
+STEL,Finance
+STEM,Health Care
+STFC,Finance
+STKL,Consumer Services
+STLD,Basic Industries
+STLY,Consumer Durables
+STMP,Consumer Services
+STNR,Consumer Services
+STRA,Consumer Services
+STRL,Basic Industries
+STRM,Technology
+STRN,Capital Goods
+STRS,Consumer Services
+STRT,Capital Goods
+STSA,Finance
+STSI,Consumer Durables
+STX,Technology
+STXS,Health Care
+SUBK,Finance
+SUMR,Consumer Durables
+SUPN,Health Care
+SUPX,Technology
+SURG,Health Care
+SUSQ,Finance
+SUSS,Consumer Non-Durables
+SUTR,Capital Goods
+SVA,Health Care
+SVBI,Finance
+SWHC,Capital Goods
+SWIR,Technology
+SWKS,Technology
+SWSH,Finance
+SYBT,Finance
+SYBTP,Finance
+SYKE,Technology
+SYMC,Technology
+SYMM,Public Utilities
+SYMX,Basic Industries
+SYNA,Technology
+SYNC,Technology
+SYNL,Basic Industries
+SYNM,Energy
+SYNT,Technology
+SYPR,Capital Goods
+SYUT,Consumer Non-Durables
+SZYM,Basic Industries
+TACT,Technology
+TAIT,Consumer Non-Durables
+TASR,Capital Goods
+TAST,Consumer Services
+TATT,Capital Goods
+TAX,Consumer Services
+TAXI,Finance
+TAYC,Finance
+TAYCO,Finance
+TAYCP,Finance
+TAYD,Capital Goods
+TBAC,Consumer Non-Durables
+TBBK,Finance
+TBNK,Finance
+TBOW,Technology
+TCBI,Finance
+TCBIL,Finance
+TCBIW,Finance
+TCBK,Finance
+TCCO,Technology
+TEAR,Health Care
+TECD,Technology
+TECH,Health Care
+TECUA,Capital Goods
+TECUB,Capital Goods
+TELK,Health Care
+TESO,Energy
+TESS,Consumer Non-Durables
+TFCO,Consumer Durables
+TFM,Consumer Services
+TFSL,Finance
+TGA,Energy
+TGE,Energy
+THFF,Finance
+THLD,Health Care
+THOR,Health Care
+THRD,Finance
+THRM,Capital Goods
+THRX,Health Care
+THTI,Capital Goods
+TIBX,Technology
+TIGR,Technology
+TINY,Finance
+TISA,Technology
+TITN,Consumer Services
+TIVO,Consumer Services
+TKMR,Health Care
+TLAB,Public Utilities
+TLF,Consumer Non-Durables
+TMNG,Consumer Services
+TNAV,Capital Goods
+TNGO,Technology
+TOFC,Finance
+TOPS,Transportation
+TORM,Basic Industries
+TPGI,Finance
+TQNT,Technology
+TRAK,Technology
+TREE,Finance
+TRGT,Health Care
+TRIB,Health Care
+TRIP,Technology
+TRIT,Consumer Services
+TRMB,Capital Goods
+TRMK,Finance
+TRNS,Capital Goods
+TRNX,Health Care
+TROV,Health Care
+TROVU,Health Care
+TROVW,Health Care
+TROW,Finance
+TRS,Capital Goods
+TRST,Finance
+TSBK,Finance
+TSCO,Consumer Services
+TSEM,Technology
+TSLA,Capital Goods
+TSPT,Health Care
+TSRA,Technology
+TSRI,Technology
+TSRO,Health Care
+TST,Consumer Services
+TSYS,Technology
+TTEC,Technology
+TTEK,Consumer Services
+TTGT,Miscellaneous
+TTHI,Consumer Durables
+TTMI,Technology
+TTS,Consumer Services
+TTWO,Technology
+TUES,Consumer Services
+TWER,Consumer Services
+TWGP,Finance
+TWIN,Technology
+TWMC,Consumer Services
+TWTC,Public Utilities
+TXN,Technology
+TXRH,Consumer Services
+TYPE,Technology
+TZOO,Technology
+UACL,Transportation
+UBCP,Finance
+UBFO,Finance
+UBNK,Finance
+UBNT,Technology
+UBOH,Finance
+UBSH,Finance
+UBSI,Finance
+UCBA,Finance
+UCBI,Finance
+UCFC,Finance
+UCTT,Technology
+UEIC,Consumer Non-Durables
+UEPS,Finance
+UFCS,Finance
+UFPI,Basic Industries
+UFPT,Capital Goods
+UG,Consumer Non-Durables
+UHAL,Consumer Services
+ULBI,Energy
+ULTA,Consumer Services
+ULTI,Technology
+ULTR,Transportation
+UMBF,Finance
+UMPQ,Finance
+UNAM,Finance
+UNB,Finance
+UNFI,Consumer Non-Durables
+UNIS,Health Care
+UNTD,Technology
+UNTK,Public Utilities
+UNTY,Finance
+UNXL,Capital Goods
+UPI,Health Care
+UPIP,Technology
+URBN,Consumer Services
+URRE,Basic Industries
+USAK,Transportation
+USAP,Basic Industries
+USAT,Miscellaneous
+USATP,Miscellaneous
+USATZ,Miscellaneous
+USBI,Finance
+USCR,Capital Goods
+USEG,Energy
+USLM,Basic Industries
+USMD,Health Care
+USMO,Public Utilities
+USTR,Consumer Services
+UTEK,Technology
+UTHR,Health Care
+UTIW,Transportation
+UTMD,Health Care
+UTSI,Consumer Durables
+UVSP,Finance
+VALU,Finance
+VASC,Health Care
+VBFC,Finance
+VCBI,Finance
+VCLK,Technology
+VDSI,Technology
+VECO,Technology
+VELT,Technology
+VIA,Consumer Services
+VIAB,Consumer Services
+VIAS,Technology
+VICL,Health Care
+VICR,Capital Goods
+VIDE,Capital Goods
+VIFL,Miscellaneous
+VIMC,Technology
+VIRC,Consumer Durables
+VISN,Technology
+VITC,Consumer Services
+VIVO,Health Care
+VLCCF,Consumer Services
+VLGEA,Consumer Services
+VLYWW,Finance
+VNDA,Health Care
+VNET,Technology
+VOCS,Technology
+VOD,Public Utilities
+VOLC,Health Care
+VOXX,Consumer Non-Durables
+VPFG,Finance
+VPHM,Health Care
+VPRT,Miscellaneous
+VRA,Consumer Non-Durables
+VRML,Health Care
+VRNM,Basic Industries
+VRNT,Technology
+VRSK,Technology
+VRSN,Technology
+VRTA,Consumer Services
+VRTB,Consumer Services
+VRTS,Finance
+VRTU,Technology
+VRTX,Health Care
+VSAT,Technology
+VSBN,Finance
+VSCI,Health Care
+VSCP,Health Care
+VSEC,Consumer Services
+VSTM,Health Care
+VTNC,Transportation
+VTSS,Technology
+VTUS,Health Care
+VVTV,Consumer Services
+VVUS,Health Care
+VYFC,Finance
+WABC,Finance
+WAFD,Finance
+WAFDW,Finance
+WASH,Finance
+WAVX,Technology
+WAYN,Finance
+WBCO,Finance
+WBKC,Finance
+WBMD,Miscellaneous
+WDC,Technology
+WDFC,Basic Industries
+WEBK,Finance
+WEN,Consumer Services
+WERN,Transportation
+WETF,Finance
+WEYS,Consumer Non-Durables
+WFD,Finance
+WFM,Consumer Services
+WHLR,Consumer Services
+WIBC,Finance
+WIFI,Consumer Services
+WILC,Consumer Non-Durables
+WILN,Miscellaneous
+WIN,Public Utilities
+WINA,Consumer Services
+WIRE,Capital Goods
+WLB,Energy
+WLBPZ,Energy
+WLDN,Consumer Services
+WLFC,Consumer Durables
+WMAR,Consumer Durables
+WMGI,Health Care
+WOOF,Consumer Non-Durables
+WPCS,Consumer Services
+WPPGY,Technology
+WPRT,Energy
+WRES,Energy
+WRLD,Finance
+WSBC,Finance
+WSBF,Finance
+WSCI,Technology
+WSFS,Finance
+WSFSL,Finance
+WSTG,Technology
+WSTL,Public Utilities
+WTBA,Finance
+WTFC,Finance
+WTFCW,Finance
+WVFC,Finance
+WVVI,Consumer Non-Durables
+WWD,Energy
+WWWW,Technology
+WYNN,Consumer Services
+XBKS,Finance
+XLNX,Technology
+XNPT,Health Care
+XOMA,Health Care
+XPLR,Technology
+XRAY,Health Care
+XRSC,Technology
+XRTX,Technology
+XTEX,Energy
+XTXI,Energy
+XWES,Miscellaneous
+XXIA,Capital Goods
+YHOO,Technology
+YNDX,Technology
+YOD,Consumer Services
+YONG,Basic Industries
+YORW,Public Utilities
+YRCW,Transportation
+YY,Technology
+Z,Miscellaneous
+ZAGG,Consumer Services
+ZAZA,Energy
+ZBRA,Technology
+ZEUS,Basic Industries
+ZGNX,Health Care
+ZHNE,Public Utilities
+ZIGO,Capital Goods
+ZINC,Capital Goods
+ZION,Finance
+ZIONW,Finance
+ZIOP,Health Care
+ZIPR,Finance
+ZIXI,Technology
+ZLCS,Health Care
+ZLTQ,Health Care
+ZN,Energy
+ZNGA,Technology
+ZOLT,Energy
+ZOOM,Public Utilities
+ZUMZ,Consumer Services
+AGX,Basic Industries
+EGT,Consumer Durables
+FLL,Consumer Services
+MSL,Finance
+NBS,Health Care
+PTX,Health Care
+RTK,Basic Industries
+SAL,Finance
+TA,Consumer Durables
+VRNG,Consumer Services
+WAC,Finance
+WEX,Miscellaneous
+FOXA,Consumer Services
+ABBV,Health Care
+ACT,Health Care
+MHFI,Finance
+ZTS,Health Care
+AGI,Basic Industries
+RIOM,Basic Industries
+VLRS,Transportation
+BEP,Public Utilities
+TPRE,Finance
+NSLP,Energy
+CTY,Public Utilities
+LXFT,Technology
+BFAM,Miscellaneous
+DUKH,Public Utilities
+THGA,Finance
+WCIC,Capital Goods
+PRH,Finance
+MYCC,Consumer Services
+HASI,Consumer Services
+OAKS,Consumer Services
+ZFC,Consumer Services
+MTCN,Basic Industries
+IHG,Consumer Services
+BCC,Consumer Services
+TXTR,Technology
+CVT,Technology
+BPY,Finance
+SBGL,Basic Industries
+MODN,Technology
+MNK,Health Care
+TEP,Public Utilities
+SUNE,Technology
+ECOM,Technology
+EAB,Public Utilities
+EAE,Public Utilities
+EVTC,Technology
+EVHC,Health Care
+LITB,Consumer Services
+DOOR,Basic Industries
+MRIN,Technology
+PBF,Energy
+SSLT,Capital Goods
+SBY,Consumer Services
+TRMR,Technology
+ERA,Transportation
+DATA,Technology
+RESI,Finance
+LIN,Consumer Services
+TPH,Capital Goods
+COLE,Consumer Services
+ENJ,Public Utilities
+RALY,Technology
+DCUA,Public Utilities
+DCUB,Public Utilities
+CLV,Basic Industries
+SSNI,Technology
+NRZ,Consumer Services
+EMES,Energy
+PF,Consumer Non-Durables
+TMUS,Public Utilities
+BXMT,Consumer Services
+ZBK,Finance
+SXCP,Basic Industries
+PSXP,Energy
+AIW,Finance
+NSS,Energy
+I,Consumer Services
+PFSI,Finance
+BURL,Consumer Services
+REN,Energy
+NYLD,Public Utilities
+ELU,Public Utilities
+LDOS,Technology
+JONE,Energy
+CNHI,Capital Goods
+TAM,Basic Industries
+BRSS,Capital Goods
+QEPM,Public Utilities
+AHH,Finance
+JMPB,Finance
+TANN,Consumer Durables
+HCJ,Finance
+SAIC,Technology
+VET,Energy
+CVRR,Energy
+SFN,Finance
+QTS,Consumer Services
+WPT,Energy
+UCP,Capital Goods
+VMEM,Technology
+ESRT,Consumer Services
+GEK,Finance
+GEH,Finance
+COTY,Consumer Non-Durables
+DDC,Basic Industries
+REXR,Consumer Services
+APAM,Finance
+PJH,Finance
+EARN,Consumer Services
+RMAX,Finance
+CCV,Consumer Services
+CCH,Consumer Non-Durables
+OCIP,Basic Industries
+OCIR,Basic Industries
+CHMI,Consumer Services
+AMH,Consumer Services
+SGZA,Finance
+CYNI,Technology
+NES,Energy
+DOC,Consumer Services
+WLH,Capital Goods
+ARPI,Consumer Services
+VOYA,Finance
+RCAP,Finance
+SEAS,Consumer Services
+GIMO,Technology
+KNOP,Consumer Services
+FI,Energy
+USAC,Public Utilities
+YUME,Technology
+Q,Health Care
+CSG,Consumer Services
+CST,Consumer Durables
+XON,Health Care
+ASC,Transportation
+CSTM,Basic Industries
+KWN,Finance
+TMHC,Capital Goods
+GPT,Consumer Services
+PGEM,Basic Industries
+DRII,Consumer Services
+RNG,Technology
+IEH,Public Utilities
+PPX,Public Utilities
+AXLL,Basic Industries
+ATHL,Energy
+AVIV,Consumer Services
+MIXT,Technology
+BIOA,Basic Industries
+CGG,Energy
+GRAM,Basic Industries
+ORMP,Health Care
+NRCIA,Health Care
+NRCIB,Health Care
+NWBOW,Health Care
+REMY,Capital Goods
+UIHC,Finance
+AQUUW,Finance
+CTG,Technology
+TCBIP,Finance
+MNDL,Miscellaneous
+RDHL,Health Care
+BIND,Health Care
+ESXB,Finance
+INXBW,Finance
+RCPT,Health Care
+QPACU,Finance
+XTLB,Health Care
+CHSCO,Consumer Services
+TCFC,Finance
+AFH,Finance
+MBIS,Miscellaneous
+AXDX,Capital Goods
+CRESW,Finance
+LAND,Consumer Services
+ENZY,Consumer Durables
+RMGN,Miscellaneous
+STML,Health Care
+HOTRW,Consumer Services
+CCCR,Finance
+ENTA,Health Care
+VTNR,Public Utilities
+OVAS,Health Care
+BAGR,Consumer Services
+GFNCP,Consumer Services
+OCRX,Health Care
+BANCP,Finance
+OHRP,Health Care
+FATE,Health Care
+CONE,Consumer Services
+WTSL,Consumer Services
+TIPT,Consumer Services
+RPRXZ,Health Care
+RPRXW,Health Care
+AAOI,Technology
+PCMI,Consumer Services
+PSIX,Energy
+THST,Consumer Non-Durables
+ADHD,Health Care
+HBIOV,Capital Goods
+JTPY,Finance
+GOGO,Consumer Services
+ROICU,Consumer Services
+MWRX,Finance
+SBFG,Finance
+CUBIL,Finance
+NSTG,Health Care
+HMTV,Consumer Services
+ERS,Basic Industries
+SBRAP,Consumer Services
+VNRAP,Energy
+NCLH,Consumer Services
+MICT,Capital Goods
+EVOK,Health Care
+ENT,Consumer Services
+AGII,Finance
+AGIO,Health Care
+MZOR,Health Care
+SOHO,Consumer Services
+DXLG,Consumer Services
+PPSI,Consumer Durables
+SAEX,Energy
+UNTDV,Technology
+CACGW,Finance
+PRTA,Health Care
+WSTC,Miscellaneous
+FPRX,Health Care
+CNAT,Health Care
+BGSCW,Finance
+CIFC,Finance
+CGIX,Health Care
+CEMI,Health Care
+OLED,Capital Goods
+FOX,Consumer Services
+MKTO,Technology
+FISH,Public Utilities
+COB,Finance
+QPACW,Finance
+FEYE,Technology
+AXGN,Health Care
+INSY,Health Care
+ICEL,Health Care
+SQBG,Consumer Non-Durables
+HOTR,Consumer Services
+VLTC,Miscellaneous
+CTRL,Capital Goods
+PEGI,Public Utilities
+ONTX,Health Care
+SPDC,Technology
+MBII,Basic Industries
+SFM,Consumer Services
+OTEL,Public Utilities
+KMDA,Health Care
+ACST,Health Care
+HTWO,Finance
+CLACW,Finance
+CLACU,Finance
+DXM,Consumer Services
+HIIQ,Finance
+MRTX,Health Care
+ESPR,Health Care
+COVS,Technology
+GWPH,Health Care
+PENNV,Consumer Services
+TRCB,Finance
+INTLL,Finance
+ANDAW,Finance
+CLAC,Finance
+FMI,Health Care
+PBPB,Consumer Services
+CACG,Finance
+MHLDO,Finance
+QUMU,Technology
+NYMTP,Finance
+HTBX,Health Care
+HDS,Consumer Services
+BBRY,Public Utilities
+IKGH,Consumer Services
+MEILZ,Basic Industries
+WBB,Finance
+MEILW,Basic Industries
+IMMY,Health Care
+DVCR,Health Care
+IMCB,Finance
+HAWK,Finance
+XGTI,Consumer Durables
+INBK,Finance
+OPHT,Health Care
+BDBD,Consumer Non-Durables
+OMED,Health Care
+LPDX,Health Care
+PINC,Consumer Services
+FWM,Consumer Services
+STCK,Consumer Services
+TSC,Finance
+ANIP,Health Care
+TGTX,Health Care
+WMGIZ,Health Care
+SCTY,Basic Industries
+NEO,Health Care
+SALE,Consumer Services
+SLVO,Finance
+FUEL,Technology
+TSRE,Consumer Services
+WFBI,Finance
+MONT,Technology
+QPAC,Finance
+XOOM,Finance
+FOXF,Consumer Non-Durables
+GTPPP,Consumer Durables
+BNFT,Technology
+PLPM,Miscellaneous
+JACQW,Finance
+MDXG,Health Care
+STRZB,Consumer Services
+EPZM,Health Care
+KBIO,Health Care
+BAXS,Health Care
+RGDO,Health Care
+NVEEW,Consumer Services
+CISAA,Finance
+XGTIW,Consumer Durables
+CISAU,Finance
+CISAW,Finance
+STRZA,Consumer Services
+XONE,Capital Goods
+NBCB,Finance
+CNOB,Finance
+EVRY,Consumer Durables
+IBTX,Finance
+JACQ,Finance
+OUTR,Consumer Services
+XLRN,Health Care
+NWBO,Health Care
+PME,Basic Industries
+BLUE,Health Care
+PTLA,Health Care
+TTPH,Health Care
+BPFHP,Finance
+CRRS,Technology
+TILE,Consumer Durables
+IESC,Capital Goods
+DSKX,Consumer Non-Durables
+GLDI,Finance
+IPDN,Technology
+RNA,Health Care
+NDLS,Consumer Services
+CMRX,Health Care
+VRNGW,Consumer Services
+NVEE,Consumer Services
+CDW,Consumer Services
+PTCT,Health Care
+AMBCW,Finance
+AMBI,Health Care
+AMBC,Finance
+TNXP,Basic Industries
+QIWI,Miscellaneous
+ZIONZ,Finance
+UBIC,Technology
+SPCB,Technology
+CACGU,Finance
+MAMS,Technology
+SAMG,Finance
+HKTV,Public Utilities
+AQU,Finance
+YDKN,Finance
+PETX,Health Care
+MICTW,Capital Goods
+CUBI,Finance
+TXMD,Healthcare
+OMTH,Healthcare
+FCSC,Healthcare
+GOOGL,Technology
+^FVX,Technology
+^TYX,Technology
+NAVI,Finance
+ALLE,Industrials
