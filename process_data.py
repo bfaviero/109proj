@@ -6,26 +6,78 @@ import zipfile
 import numpy as np
 import pandas as pd # pandas
 import matplotlib.pyplot as plt # module for plotting
-from dateutil.parser import parse
+import datetime
+from datetime import timedelta
+from utils import *
+def get_funds():
+    funds = []
+    def parse_date(s):
+            month, day, year = [int(i) for i in s.split('/')]
+            if year >= 0 and year <=14:
+                year += 2000
+            else:
+                year += 1900
+            date = datetime.date(year, month, day)
+            return date
+
+    for i in range(1, 9):
+        df = pd.read_csv('data/funds/fund'+str(i)+'.csv')
+        date_index = list(df.columns).index('date')
+        df['date'] = df.apply(lambda r: parse_date(r.values[date_index]), axis=1)
+        df = df.set_index('date')
+        funds.append(merge_with_quarters(df))
+    return funds
+
+
+def get_data(arg):
+    arg = 'cpi'
+    cpi = pd.read_csv('data/metrics/'+arg+'.csv')
+    def parse_date(s):
+        month, day, year = [int(i) for i in s.split('/')]
+        if year >= 0 and year <=14:
+            year += 2000
+        else:
+            year += 1900
+        date = datetime.date(year, month, day)
+        return date
+
+    cpi['date'] = cpi.apply(lambda r: parse_date(r.values[0]), axis=1)
+    cpi = cpi.set_index('date')
+    df = merge_with_quarters(cpi)
+    dates = get_closest_dates_to_quarters(df)
+    dates_df = pd.DataFrame(columns=['date'], data=dates).set_index('date')
+    return df.merge(dates_df, left_index=True, right_index=True).set_index(['year', 'quarter']).head()
 
 def get_cpi():
-    cpi = pd.read_csv('data/metrics/cpi_monthly.csv')
-    cpi['observation_date'] = cpi.apply(lambda r: parse(r.values[0]).date(), axis=1)
-    cpi = cpi[['date', 'cpi']]
-    return cpi
-
-def get_dow():
-    dow = pd.read_csv('data/metrics/dow_daily.csv')
-    def transform_date(d):
-        s = str(d)
-        return parse('%s-%s-%s' % (s[:4], s[4:6], s[6:])).date()
-    dow.date = [transform_date(date) for date in dow.date]
-    return dow
+    return get_data('cpi')
 
 def get_gdp():
-    gdp = pd.read_csv('data/metrics/gdp_quarterly.csv')
-    gdp['date'] = gdp.apply(lambda r: parse(r.values[0]).date(), axis=1)
-    return gdp
+    return get_data('gdp')
+
+def get_jobless():
+    return get_data('jobless')
+
+def get_sentiment():
+    return get_data('sentiment')
+
+def get_index(index):
+    dow = pd.read_csv('data/metrics/%s.csv' % index)
+    def transform_date(d):
+        s = str(d)
+        year, month, day = map(int, [s[:4], s[4:6], s[6:]])
+        return datetime.date(year, month, day)
+    dow.date = [transform_date(date) for date in dow.date]
+    dow = dow.set_index('date')
+    df = merge_with_quarters(dow)
+    dates = get_closest_dates_to_quarters(df)
+    dates_df = pd.DataFrame(columns=['date'], data=dates).set_index('date')
+    return df.merge(dates_df, left_index=True, right_index=True).set_index(['year', 'quarter'])[['adj_close']]
+
+def get_dow():
+    return get_index('dow')
+
+def get_snp():
+    return get_index('snp')
 
 def get_inflation():
     inflation = pd.read_csv('data/metrics/inflation_monthly.csv')
@@ -37,25 +89,17 @@ def get_inflation():
     for i in range(1, len(inflation.columns)):
         col = inflation.columns[i]
         inflation[col] = inflation.apply(lambda r: transform_inflation(r.values[i]), axis=1)
-    return inflation
-
-def get_jobless():
-    jobless = pd.read_csv('data/metrics/jobless_weekly.csv')
-    jobless['observation_date'] = jobless.apply(lambda r: parse(r.values[0]).date(), axis=1)
-    jobless.columns = ['date', 'jobless']
-    return jobless
-
-def get_snp():
-    snp = pd.read_csv('data/metrics/s&p_daily.csv')
-    def transform_date(d):
-        s = str(d)
-        return parse('%s-%s-%s' % (s[:4], s[4:6], s[6:])).date()
-    snp.date = [transform_date(date) for date in snp.date]
-    return snp
-
-def get_sentiment():
-    sentiment = pd.read_csv('data/metrics/jobless_weekly.csv')
-    sentiment['observation_date'] = sentiment.apply(lambda r: parse(r.values[0]).date(), axis=1)
-    sentiment.columns = ['date', 'sentiment']
-    return sentiment
-
+    inflation.columns = ['YEAR', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13']
+    data = []
+    for row in inflation.iterrows():
+        row = row[1]
+        year = int(row[0])
+        for i in range(1, 13):
+            inflation = row[i]
+            date = datetime.date(year, i, 1)
+            data.append([date, inflation])
+    df = pd.DataFrame(columns=['date', 'inflation'], data=data).set_index('date')
+    df = merge_with_quarters(df)
+    dates = get_closest_dates_to_quarters(df)
+    dates_df = pd.DataFrame(columns=['date'], data=dates).set_index('date')
+    return df.merge(dates_df, left_index=True, right_index=True).set_index(['year', 'quarter'])[['inflation']]

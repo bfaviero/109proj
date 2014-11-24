@@ -569,14 +569,14 @@ def get_tickers(startdate, enddate, tickers, forcefailed=0):
             -1 : retry failed data points, reset retry count
             -2 : ignore cache entirely, refresh ALL data points"""
     starttime = datetime.datetime.now()
-    dbg_print(0, '%s : Fetching %s tickers' % (starttime, len(tickers)))
+    #dbg_print(0, '%s : Fetching %s tickers' % (starttime, len(tickers)))
     result = []
     for ticker in tickers:
-        dbg_print(0, '%s' % (ticker))
+        #dbg_print(0, '%s' % (ticker))
         tickerdata = get_cached_ticker(startdate, enddate, ticker, forcefailed)
         result.extend(tickerdata)
     endtime = datetime.datetime.now()
-    dbg_print(0, '%s : Done. Processed %s tickers in %s' % (endtime, len(tickers), endtime - starttime))
+    #dbg_print(0, '%s : Done. Processed %s tickers in %s' % (endtime, len(tickers), endtime - starttime))
     return result
 
 
@@ -676,19 +676,13 @@ def arg_tickers(args):
     dbg_print(1, "Tickers: %s" % tickers)
     return tickers
 
+def stringify_date(date):
+    return date.strftime("%Y%m%d")
 
-def main():
+#20020101 20040404 "^DJI"
+def get_ticker_info(date1, date2, tickers):
     """Main program: Implements arg command line interface to fetching stock
     data from Yahoo."""
-    #pyq 20120601 20120701 "^DJI"
-    # parse options
-    try:
-        opts, args = getopt.getopt(
-            sys.argv[1:], 'hv?ir:', ['help', 'version', 'stdin', 'retryfailed=']
-            )
-    except getopt.GetoptError:
-        exit_usage_error()
-
     # setup proxy
     if not PROXYURL is None:
         proxy = urllib2.ProxyHandler({'http': PROXYURL})
@@ -696,41 +690,8 @@ def main():
         opener = urllib2.build_opener(proxy, auth, urllib2.HTTPHandler)
         urllib2.install_opener(opener)
 
-    # process options
-    stdin_tickers = []
-    retryfailed = 0
-    for option, optarg in opts:
-        if option in ("-h", "--help", "-?"):
-            exit_usage()
-        if option in ("-v", "--version"):
-            exit_version()
-        if option in ("-i", "--stdin"):
-            stdin_tickers = split_lines(sys.stdin.read())
-            dbg_print(1, "Reading tickers from stdin.")
-        if option in ("-r", "--retryfailed"):
-            retryfailed = int(optarg)
-            dbg_print(1, "Using cache retry value: %s" % retryfailed)
+    startdate = stringify_date(date1)
+    enddate = stringify_date(date2)
+    result = get_tickers(startdate, enddate, tickers, 0)
 
-    startdate = arg_startdate(args)
-    enddate = arg_enddate(args)
-    fetchlive = arg_fetchlive(args)
-    tickers = arg_tickers(args)
-    tickers.extend(stdin_tickers)
-    if len(tickers) == 0:
-        exit_usage()
-
-    if fetchlive:
-        result = get_yahoo_tickers_live(tickers)
-    else:
-        result = get_tickers(startdate, enddate, tickers, retryfailed)
-
-    for line in result:
-        print ','.join(line)
-
-
-try:
-    if __name__ == '__main__':
-        main()
-except KeyboardInterrupt:
-    traceback.print_exc()
-    dbg_print(1, 'Break!')
+    return result
