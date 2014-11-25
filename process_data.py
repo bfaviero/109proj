@@ -84,6 +84,16 @@ def get_dow():
 def get_snp():
     return get_index('snp')
 
+def get_index_daily(index):
+    dow = pd.read_csv('data/metrics/%s.csv' % index)
+    def transform_date(d):
+        s = str(d)
+        year, month, day = map(int, [s[:4], s[4:6], s[6:]])
+        return datetime.date(year, month, day)
+    dow.date = [transform_date(date) for date in dow.date]
+    dow = dow.set_index('date')
+    return dow
+
 def get_inflation():
     inflation = pd.read_csv('data/metrics/inflation_monthly.csv')
     def transform_inflation(elt):
