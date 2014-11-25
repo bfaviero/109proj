@@ -1,4 +1,4 @@
-Bruno's tasks:
+#Bruno's tasks:
 
 Group by sector
 
@@ -8,8 +8,7 @@ Clustering on different sectors
 
 Visualization
 
-============================================================================================================
-Shirley's tasks:
+#Shirley's tasks:
 
 Find the params that affect holdings significantly -- SVD
 
