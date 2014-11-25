@@ -9,6 +9,11 @@ import matplotlib.pyplot as plt # module for plotting
 import datetime
 from datetime import timedelta
 from utils import *
+
+def get_sectors():
+    df = pd.read_csv('data/ticker_sector.csv').set_index('ticker')
+    return df
+
 def get_funds():
     funds = []
     def parse_date(s):
