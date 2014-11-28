@@ -10,6 +10,27 @@ import datetime
 from datetime import timedelta
 from utils import *
 
+def get_returns(fund):
+    fund = fund.replace('PRN', 'SH').replace('CALL', 'SH')
+    fund_name = fund.filer.unique()[0]
+    data = []
+    for year in fund.year.unique():
+        if np.isnan(year):
+            continue
+        for quarter in (1, 2, 3, 4):
+            row = fund.loc[(fund.year == year) & (fund.quarter == quarter)]
+            grouped = row.groupby('type')
+            total_returns = 0
+            for name, group in grouped:
+                returns = 0
+                returns = group.current_value.sum() - group.previous_value.sum()
+                if name == 'PUT':
+                    returns *= -1
+                total_returns += returns
+            data.append([year, quarter, total_returns])
+    returns = pd.DataFrame(data=data, columns=['year', 'quarter', 'returns']).set_index(['year', 'quarter'])
+    return returns
+
 def get_sectors():
     df = pd.read_csv('data/ticker_sector.csv').set_index('ticker')
     return df
