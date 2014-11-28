@@ -680,7 +680,7 @@ def stringify_date(date):
     return date.strftime("%Y%m%d")
 
 #20020101 20040404 "^DJI"
-def get_ticker_info(date1, date2, tickers):
+def get_ticker_info(date1, date2, ticker):
     """Main program: Implements arg command line interface to fetching stock
     data from Yahoo."""
     # setup proxy
@@ -692,6 +692,6 @@ def get_ticker_info(date1, date2, tickers):
 
     startdate = stringify_date(date1)
     enddate = stringify_date(date2)
-    result = get_tickers(startdate, enddate, tickers, 0)
+    result = get_tickers(startdate, enddate, [ticker], 0)
 
     return result
