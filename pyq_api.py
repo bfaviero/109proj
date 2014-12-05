@@ -695,3 +695,19 @@ def get_ticker_info(date1, date2, ticker):
     result = get_tickers(startdate, enddate, [ticker], 0)
 
     return result
+
+def get_tickers_info(date, tickers):
+    """Main program: Implements arg command line interface to fetching stock
+    data from Yahoo."""
+    # setup proxy
+    if not PROXYURL is None:
+        proxy = urllib2.ProxyHandler({'http': PROXYURL})
+        auth = urllib2.HTTPBasicAuthHandler()
+        opener = urllib2.build_opener(proxy, auth, urllib2.HTTPHandler)
+        urllib2.install_opener(opener)
+
+    startdate = stringify_date(date)
+    enddate = stringify_date(date)
+    result = get_tickers(startdate, enddate, tickers, 0)
+
+    return result

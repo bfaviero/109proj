@@ -1,7 +1,7 @@
 from datetime import timedelta
 from process_data import *
 from pydash import flatten
-from pyq_api import get_ticker_info
+from pyq_api import get_ticker_info, get_tickers_info
 from tickers import *
 from utils import *
 from yahoo_finance import Share
@@ -49,7 +49,7 @@ def _get_previous_trading_data(stock, date):
             date = _remove_one_day(date)
             data = trading_data_on_date(stock, date)
             i+=1
-            if i > 3:
+            if i > 5:
                 return None
         return data
 
@@ -70,7 +70,7 @@ def _get_next_trading_data(stock, date):
 def get_data_of_stock_on_or_around_day(stock, date, get_later_day=False):
     data = trading_data_on_date(stock, date)
     if data:
-        return data.adj_close
+        return data
     else:
         if get_later_day:
             data = _get_next_trading_data(stock, date)
@@ -81,7 +81,7 @@ def get_data_of_stock_on_or_around_day(stock, date, get_later_day=False):
 
 def get_price_of_stock_on_or_around_day(stock, date, get_later_day=False):
     data = get_data_of_stock_on_or_around_day(stock, date, get_later_day)
-    return data.adj_close if data else NOne
+    return data.adj_close if data else None
 
 
 
@@ -134,3 +134,17 @@ def get_price_of_stock_at_dates_flexible(ticker, dates):
     if not data:
         return emptyFrame()
     return process_ticker_returns(ticker, data)
+
+def get_price_of_stocks_at_date_flexible(tickers, date):
+    data = get_tickers_info(date, tickers)
+    i = 0
+    if data:
+        return data
+    else:
+        while not data:
+            date = date - timedelta(days=1)
+            data = get_tickers_info(date, tickers)
+            i+=1
+            if i > 5:
+                return None
+        return data
