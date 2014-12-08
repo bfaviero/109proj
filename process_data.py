@@ -56,7 +56,6 @@ def get_funds():
 
 
 def get_data(arg):
-    arg = 'cpi'
     cpi = pd.read_csv('data/metrics/'+arg+'.csv')
     def parse_date(s):
         month, day, year = [int(i) for i in s.split('/')]
@@ -72,7 +71,7 @@ def get_data(arg):
     df = merge_with_quarters(cpi)
     dates = get_closest_dates_to_quarters(df)
     dates_df = pd.DataFrame(columns=['date'], data=dates).set_index('date')
-    return df.merge(dates_df, left_index=True, right_index=True).set_index(['year', 'quarter']).head()
+    return df.merge(dates_df, left_index=True, right_index=True).set_index(['year', 'quarter'])
 
 def get_cpi():
     return get_data('cpi')
