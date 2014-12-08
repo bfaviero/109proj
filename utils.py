@@ -51,7 +51,7 @@ def merge_with_quarters(df):
 
 def get_quarters():
     data = []
-    for year in xrange(1999, 2014):
+    for year in xrange(1999, 2015):
         i = 1
         for month, day in zip((3, 6, 9, 12), (31, 30, 30, 31)):
             date = datetime.date(year, month, day)
