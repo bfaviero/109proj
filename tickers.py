@@ -1,6 +1,6 @@
 from datetime import timedelta
 from process_data import *
-from pydash import flatten
+# from pydash import flatten
 from pyq_api import get_ticker_info, get_tickers_info
 from tickers import *
 from utils import *
@@ -12,6 +12,7 @@ import pandas as pd # pandas
 import requests
 import StringIO
 import zipfile
+import itertools
 
 #ticker, date, open, high, low, close, vol, adj_close
 class PriceData:
@@ -123,14 +124,16 @@ def get_price_of_stock_between_dates(ticker, date1, date2):
 
 def get_price_of_stock_at_dates(ticker, dates):
     data = [get_ticker_info(date, date, ticker) for date in dates if date]
-    data = flatten(data)
+    # data = flatten(data)
+    data = list(itertools.chain(*data))
     if not data:
         return emptyFrame()
     return process_ticker_returns(ticker, data)
 
 def get_price_of_stock_at_dates_flexible(ticker, dates):
     data = [get_data_of_stock_on_or_around_day(ticker, date) for date in dates if date]
-    data = flatten(data)
+    # data = flatten(data)
+    data = list(itertools.chain(*data))
     if not data:
         return emptyFrame()
     return process_ticker_returns(ticker, data)

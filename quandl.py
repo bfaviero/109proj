@@ -2,14 +2,14 @@ import Quandl
 
 auth_token = "v2tx16u_kQotxDgQi_22"
 
-def get_price_history(stock, exchange, start_time, end_time, interval):
+def get_price_history(stock, start_time, end_time, interval):
 	mydata = Quandl.get("WIKI/" + stock, trim_start=start_time, trim_end=end_time, collapse=interval, authtoken=auth_token)
 	return mydata
 
 def get_params(stock, params, start_time, end_time):
 	params = map(lambda x: "DMDRN/" + stock + "_" + x, params)
 	print params
-	mydata = Quandl.get(params, trim_start=start_time, trim_end=end_time, authtoken=auth_token)
+	mydata = Quandl.get(params, trim_start=start_time, trim_end=end_time, authtoken=auth_token, collapse='quarterly')
 	# tokens available:
 	# returns="numpy"
 	# collapse="annual" out of ("daily"|weekly"|"monthly"|"quarterly"|"annual")
@@ -78,7 +78,6 @@ def test_get():
  	mydata = get_params("MSFT", ["MKT_CAP","PE_CURR"], "2000-01-01","2014-09-30")
 	print mydata
 
-test_get()
 # mydata = Quandl.get("NSE/OIL", authtoken=auth_token)
 
 # data = Quandl.get('PRAGUESE/PX', authtoken='xxxxxx', trim_start='2001-01-01',

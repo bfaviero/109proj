@@ -50,8 +50,8 @@ def get_funds():
         df = pd.read_csv('data/funds/fund'+str(i)+'.csv')
         date_index = list(df.columns).index('date')
         df['date'] = df.apply(lambda r: parse_date(r.values[date_index]), axis=1)
-        df = df.set_index('date')
-        funds.append(merge_with_quarters(df))
+        # df = df.set_index('date')
+        funds.append(df)
     return funds
 
 
