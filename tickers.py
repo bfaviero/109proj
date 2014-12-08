@@ -27,6 +27,8 @@ class PriceData:
         self.volume = float(data[6])
         self.adj_close = float(data[7])
 
+def emptyFrame():
+    return pd.DataFrame()
 def string_to_date(s):
         return parse(s).date()
 
