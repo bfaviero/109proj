@@ -1,44 +1,36 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>109proj by bfaviero</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/main.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="109proj : ">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>109proj</title>
   </head>
+
   <body>
 
-      <header>
-        <h1>109proj</h1>
-        <p></p>
-      </header>
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/bfaviero/109proj">View on GitHub</a>
 
-      <div id="banner">
-        <span id="logo"></span>
+          <h1 id="project_title">109proj</h1>
+          <h2 id="project_tagline"></h2>
 
-        <a href="https://github.com/bfaviero/109proj" class="button fork"><strong>View On GitHub</strong></a>
-        <div class="downloads">
-          <span>Downloads:</span>
-          <ul>
-            <li><a href="https://github.com/bfaviero/109proj/zipball/master" class="button">ZIP</a></li>
-            <li><a href="https://github.com/bfaviero/109proj/tarball/master" class="button">TAR</a></li>
-          </ul>
-        </div>
-      </div><!-- end banner -->
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/bfaviero/109proj/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/bfaviero/109proj/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
 
-    <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
         <h1>
 <a id="demystifying-the-hedge-fund-mirage----from-big-data-to-big-money" class="anchor" href="#demystifying-the-hedge-fund-mirage----from-big-data-to-big-money" aria-hidden="true"><span class="octicon octicon-link"></span></a>Demystifying the Hedge Fund Mirage -- From Big Data To Big Money</h1>
 
@@ -47,18 +39,24 @@
 <h1>
 <a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h1>
 
-<p>The top hedge funds these days makes billions in return every year, and over the past 15 years, their returns have beaten the overall stock market, helping drive the boom. In our project built on iPython and with Python's Pandas module, we studied stock holdings across 8 relatively well-performing global macro hedge funds. We studied whether each fund's strategy is beta-heavy and what are metrics, be it of the overall market, of separate market sectors, or of the hedge fund industry, that affect the fund's portfolio composition. Based on our analysis, we detected a strong correlation between market performance and stocks holdings, as indicated by a large portion of S&amp;P stocks that these funds retain. Through our delta analysis, we also noticed that funds’ holdings vary quite a bit with consumer confidence and the general market performance, but not so much with variation in prices of their stock holdings. Eventually, we ran a simple Monte Carlo simulation and a Bayesian prediction model to predict how the funds’ holdings of the 3rd quarter this year will change to in the next quarter, and we look forward to validate our prediction with next quarter’s holdings information, which will be released next month. </p>
+<p>The top hedge funds these days makes billions in return every year, and over the past 15 years, their returns have beaten the overall stock market, helping drive the boom. In our project built on iPython and with Python's Pandas module, we studied stock holdings across 8 relatively well-performing global macro hedge funds. We studied whether each fund's strategy is beta-heavy and what are metrics, be it of the overall market, of separate market sectors, or of the hedge fund industry, that affect the fund's portfolio composition.<br>
+Based on our analysis, we detected a strong correlation between market performance and stocks holdings, as indicated by a large portion of S&amp;P stocks that these funds retain. Through our delta analysis, we also noticed that funds’ holdings vary quite a bit with consumer confidence and the general market performance, but not so much with variation in prices of their stock holdings. Eventually, we ran a simple Monte Carlo simulation and a Bayesian prediction model to predict how the funds’ holdings of the 3rd quarter this year will change to in the next quarter, and we look forward to validate our prediction with next quarter’s holdings information, which will be released next month. </p>
 
-<p>Project Objectives
-We address here primarily the reverse problems that appear in finance, when it is required to determine the time-varying exposure of an investment portfolio such as hedge fund to market or economic factors using only periodic performance of such portfolio. We hope to leverage the machine learning techniques such as regression, clustering, dimensionality-reduction and support vector machines to the analysis of a hedge fund's returns, thereby reverse-engineering its strategies. We are curious to see if there is any similarity in the fund holdings within firms and across firms of the same strategy. In addition, is there any common factor/parameter in the models of hedge fund strategies? </p>
+<h2>
+<a id="project-objectives" class="anchor" href="#project-objectives" aria-hidden="true"><span class="octicon octicon-link"></span></a>Project Objectives</h2>
 
-<p>With data on the quarterly holdings of top-performing hedge funds going back 15 years, we would try to detect trend/pattern on three different levels:
-strategy level: 
-Examine all firms of the same type, i.e. macro, equity hedge etc. and try to detect a common strategy or model shared across firms
- firm level:
-Examine holdings of the same firm across different time spans and try to detect if there is a model that the firm follows or an obvious/ubiquitous pattern in the firm’s holdings: for example, the firm can tend to hold a large number of holdings in the technology sector or the healthcare sector etc.
-time level:
-How do firms/different strategies’ performance vary across different time ranges. Is a certain time of the year better suited for a specific strategy vs another? How does it relate to the market benchmarks such as inflation or GDP performance, taking into account other investment vehicles such as mutual funds and futures and options? Also, looking into correlations in whether factors like YTD performance, rolling-average deviation, and price momentum factor into placing a PUT or CALL on a stock.</p>
+<p>We address here primarily the reverse problems that appear in finance, when it is required to determine the time-varying exposure of an investment portfolio such as hedge fund to market or economic factors using only periodic performance of such portfolio. We hope to leverage the machine learning techniques such as regression, clustering, dimensionality-reduction and support vector machines to the analysis of a hedge fund's returns, thereby reverse-engineering its strategies. We are curious to see if there is any similarity in the fund holdings within firms and across firms of the same strategy. In addition, is there any common factor/parameter in the models of hedge fund strategies? </p>
+
+<p>With data on the quarterly holdings of top-performing hedge funds going back 15 years, we would try to detect trend/pattern on three different levels:  </p>
+
+<ul>
+<li>strategy level: 
+Examine all firms of the same type, i.e. macro, equity hedge etc. and try to detect a common strategy or model shared across firms</li>
+<li>firm level:
+Examine holdings of the same firm across different time spans and try to detect if there is a model that the firm follows or an obvious/ubiquitous pattern in the firm’s holdings: for example, the firm can tend to hold a large number of holdings in the technology sector or the healthcare sector etc.</li>
+<li>time level:
+How do firms/different strategies’ performance vary across different time ranges. Is a certain time of the year better suited for a specific strategy vs another? How does it relate to the market benchmarks such as inflation or GDP performance?</li>
+</ul>
 
 <h1>
 <a id="overview" class="anchor" href="#overview" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview</h1>
@@ -82,16 +80,23 @@ We originally used Yahoo Finance data through the python pyq library, and then s
 <h1>
 <a id="implementation" class="anchor" href="#implementation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Implementation</h1>
 
-<p><strong>Data Wrangling stage</strong>
-We originally used the pyq python library that scraped Yahoo Finance to retrieve the data information on specific stocks by pulling stock data from every trading day between two specific dates. We pulled data between 2000 and 2014 — the years we had hedge fund data for — and aligned the price data to the specific dates for ends of quarters. After beginning analysis, we realized that Yahoo Finance did not have data on every ticker that we wanted, so we switched to the Quandl API using Google Finance. The Quandl API provided us with about 50% of the ticker data we needed. Many other tickers ended up being on different exchanges than the ones that Quandl had data for. Solving this problem involved downloading Quandl’s list of 72,000 unique exchange-ticker tags, and combing through each one to see if it matched one of our missing tickers. That got us up to a little over 70% of all the tickers we needed. For the rest, we started doing manual searching to see if we could identify common patterns of why they were missing. It was determined that the remaining tickers were either relisted under different names since the original investment, delisted from the stock exchange altogether, or merged with or were acquired by another company.</p>
+<p><strong>Data Wrangling stage</strong><br>
+We originally used the pyq python library that scraped Yahoo Finance to retrieve the data information on specific stocks by pulling stock data from every trading day between two specific dates. We pulled data between 2000 and 2014 — the years we had hedge fund data for — and aligned the price data to the specific dates for ends of quarters. After beginning analysis, we realized that Yahoo Finance did not have data on every ticker that we wanted, so we switched to the Quandl API using Google Finance. </p>
+
+<p>The Quandl API provided us with about 50% of the ticker data we needed. Many other tickers ended up being on different exchanges than the ones that Quandl had data for. Solving this problem involved downloading Quandl’s list of 72,000 unique exchange-ticker tags, and combing through each one to see if it matched one of our missing tickers. That got us up to a little over 70% of all the tickers we needed. For the rest, we started doing manual searching to see if we could identify common patterns of why they were missing. It was determined that the remaining tickers were either relisted under different names since the original investment, delisted from the stock exchange altogether, or merged with or were acquired by another company.</p>
 
 <p>After manually looking through over 60 tickers, we found that around 25% of those we looked at had since been relisted under a different ticker, sometimes on a different exchange. The process for discovering these was manually laborious, as there was no dataset that listed mappings of companies and all of their previous ticker symbols. The rest were all unlisted either due to going out of business or not having shares worth enough to be listed on an exchange, or from a merger or acquisition as determined through manual Bloomberg searches. We did, however, capture stocks that switch to being “over-the-counter” stocks (traded within brokerage networks), since those were captured by the Quandl database.</p>
 
+<h2>
+<a id="analysis" class="anchor" href="#analysis" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analysis</h2>
+
 <p>We also performed an analysis of stock reactions to sector performance, and analyzed it using some categorizations from this paper on hedge fund clustering  that lays down a few criteria for hedge fund. In the graphs below, we see two types of hedge funds:</p>
 
-<p>Marker neutral: aggressively use leverage to capitalize on small pricing differences. Attempt to minimize market risk by staying sector-neutral and actively seek out opportunities for profit in any sector.
-Market Tactical: Place longer-term bets on sectors to and capitalize on early mispricing.<br>
-We found that, since a fund has a relatively fixed amount of money, the percent of the fund that a sector took up was representative of how much they believed in that sector. </p>
+<ul>
+<li>Market neutral: aggressively use leverage to capitalize on small pricing differences. Attempt to minimize market risk by staying sector-neutral and actively seek out opportunities for profit in any sector.</li>
+<li>Market Tactical: Place longer-term bets on sectors to and capitalize on early mispricing.<br>
+We found that, since a fund has a relatively fixed amount of money, the percent of the fund that a sector took up was representative of how much they believed in that sector. </li>
+</ul>
 
 <p><img src="https://raw.githubusercontent.com/bfaviero/109proj/master/graphs/sector_matrix.png" alt=""></p>
 
@@ -120,12 +125,17 @@ We found that, since a fund has a relatively fixed amount of money, the percent 
 We proceeded to then take a different direction and carry out a bayesian analysis on the current holdings data to predict the percent change in the number of shares invested for next quarter.
 With calculated posterior mu and sd, we ran a Monte Carlo simulation 100 times and took the average on percentage for each ticker for the ticker that were in the fund's portfolio in the 3rd quarter of 2014. Then we can attempted to predict what the percentage holding for each ticker will be for the next quarter. When we get data from the next quarter, we can validate whether our prediction is close.</p>
       </section>
-      <footer>
-        <p>Project maintained by <a href="https://github.com/bfaviero">bfaviero</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">109proj maintained by <a href="https://github.com/bfaviero">bfaviero</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
     
+
   </body>
 </html>
