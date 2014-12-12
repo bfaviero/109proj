@@ -112,7 +112,7 @@ We found that, since a fund has a relatively fixed amount of money, the percent 
 
 <p>We were particularly interested in how a fund’s holdings react to changes in prices, overall US economy performance, and hedge fund industry performance. Therefore, we decided to perform delta analysis, extracting changes in shares, values, and percentage of holdings as our dependent variables and calculating changes in all of our indices and prices found online as our dependent variables. So we first tried to infer correlation between our dependent and independent variables through scatter plots, trying to see if any linear/polynomial type of relationship exist between each pair.   </p>
 
-<p><img src="https://raw.githubusercontent.com/bfaviero/109proj/master/graphs/scatter.png" alt="" title="Relationship between change in shares and Consumer Sentiment for Bluecrest Capital"></p>
+<p><img src="https://raw.githubusercontent.com/bfaviero/109proj/master/graphs/change_mult.png" alt="" title="Relationship between change in shares and Consumer Sentiment for Bluecrest Capital"></p>
 
 <p>We started with Bluecrest Capital, and tried to plot the relationship between its change in share percentage to CPI, jobless claims, inflation, dow, S&amp;P, and other indices provided by Hedge Fund Research, inc. We found that, for Bluecrest, the change in percent of its holdings was affected by the CPI, jobless rates, and HRF’s diversidied index. This makes sense as a firm that has a diversified portfolio but tracks Consumer Disc. in particular. Its overall value is most influenced by GDP. However, based on our scatter matrix, it does not seem like such a relationship exists.</p>
 
@@ -121,7 +121,7 @@ We found that, since a fund has a relatively fixed amount of money, the percent 
 <p>Even so, we still tried running multivariate linear regression with changes in stock prices along with performance metrics against changes in holdings. However, the covariance coefficients and the scores indicated that linear relationships do not seem to exist between our defined dependent and independent variables. Hence, we decided to try a different approach, running PCA analysis. We intended to use an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated principal components. </p>
 
 <p>We tested our projection on 1, 2, and 3 dimensions and checked whether variance would be stronger if we reduce our dimensions. However, based on our test scores, we noticed that reduced dimension doesn’t show strong correlation, and the generated test scores indicated that. 
-<img src="https://raw.githubusercontent.com/bfaviero/109proj/master/graphs/PCA.png" alt="">
+<img src="https://raw.githubusercontent.com/bfaviero/109proj/master/graphs/pca_mult.png" alt="">
 We proceeded to then take a different direction and carry out a bayesian analysis on the current holdings data to predict the percent change in the number of shares invested for next quarter.
 With calculated posterior mu and sd, we ran a Monte Carlo simulation 100 times and took the average on percentage for each ticker for the ticker that were in the fund's portfolio in the 3rd quarter of 2014. Then we can attempted to predict what the percentage holding for each ticker will be for the next quarter. When we get data from the next quarter, we can validate whether our prediction is close.</p>
       </section>
